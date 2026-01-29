@@ -1,0 +1,61 @@
+﻿Group,GSE,Title,Assessment,Suitability_Level,Notes
+1_Red_light_Tissues,GSE22818,Comparison of Saffron and Photobiomodulation on light damaged rat retina,Highly relevant,High,"Direct PBM intervention on retina with transcriptomics, ideal PBM mechanism dataset"
+1_Red_light_Tissues,GSE24625,Transcriptome of pineal gland Crx knockout,Not relevant,Low,"Pineal tissue, no relevance to project"
+1_Red_light_Tissues,GSE118664,Minocycline rescues retinal degeneration under light damage,Marginal,Medium,"Light damage model but focus on drug, can provide background on light-stress pathways"
+1_Red_light_Tissues,GSE129104,Stem cell retinal organoid differentiation with retinal,Not relevant,Low,"Organoid development study, not disease or light intervention"
+1_Red_light_Tissues,GSE143396,Circadian transcriptome of mouse RPE,Not relevant,Low,"Circadian biology study, not PBM or myopia"
+1_Red_light_Tissues,GSE168749,Photoreceptor subtype transcriptomes in zebrafish,Not relevant,Low,"Cell type profiling only, no intervention"
+1_Red_light_Tissues,GSE216645,Identification of fibrotinflammatory subsets in cutaneous GVHD,Not relevant,Low,"Skin tissue, no ocular or light relevance"
+1_Red_light_Tissues,GSE233440,Mapping the daily rhythmic transcriptome in the diabetic retina,Not relevant,Low,"Circadian rhythm study in diabetic retina, light is environmental variable, no PBM or myopia context"
+1_Red_light_Tissues,GSE304732,Light modulation rescues RP model,Marginal,Medium,"Red light used as environmental modifier, but core focus is genetic RP model"
+2_Myopia_RedLight,GSE6543,Classic chick form-deprivation myopia,Relevant,Medium,"Older microarray dataset, but solid biological model"
+2_Myopia_RedLight,GSE16974,Egr1 knockout developmental myopia,Marginal,Low,"Developmental/genetic mechanism, not intervention model"
+2_Myopia_RedLight,GSE78042,Lens-induced myopia time-series RNA-seq,Highly relevant,High,"Excellent design, time-course, multiple tissues"
+2_Myopia_RedLight,GSE80327,Occlusion myopia induction and recovery RNA-seq,Highly relevant,High,"Clear contrast groups, ideal for DEG and pathway analysis"
+2_Myopia_RedLight,GSE89325,Retina/RPE/choroid transcriptome in FDM chick,Relevant,High,Good FDM model; pooled samples reduce statistical power
+2_Myopia_RedLight,GSE90118,Violet light protection in chick myopia,Conditional,Medium,"Light intervention present, but wavelength is violet not red"
+2_Myopia_RedLight,GSE97125,LRP2 mutation model of eye enlargement,Marginal,Low,"Genetic model of high myopia, not intervention-driven"
+2_Myopia_RedLight,GSE161497,FDM with multiple anti-myopia treatments in chick,Highly relevant,High,"Large sample size, ideal for shared treatment-pathway mining"
+2_Myopia_RedLight,GSE203619,Control arm of optical defocus project,Not usable alone,Low,Must be paired with treated series to be meaningful
+2_Myopia_RedLight,GSE203630,SuperSeries optical defocus gene networks,Conditional,Medium,Must use subseries only; cannot analyze as standalone dataset
+2_Myopia_RedLight,GSE235684,Choroid scRNA-seq in emmetropization,Highly relevant,High,"Unique tissue- and cell-type level insight, high biological value"
+2_Myopia_RedLight,GSE284642,Mouse FDM retina RNA-seq,Relevant (limited),Medium,"Very small sample size (n=3), useful for validation only"
+3_Myopia_Tissues,GSE3300,Primate form-deprivation myopia transcriptomics,Relevant,Medium,Older technology but rare primate model
+3_Myopia_Tissues,GSE6543,Chick myopia,Relevant,Medium,Classic chick form-deprivation myopia retina dataset; older platform but biologically aligned and usable for trend/pathway analysis.
+3_Myopia_Tissues,GSE16974,Egr1 knockout retinal transcriptome,Marginal,Low,"Genetic/developmental effect, not intervention"
+3_Myopia_Tissues,GSE43516,Muller cell stretch transcriptomics,Marginal,Low,"Mechanical stress in vitro, indirect relevance"
+3_Myopia_Tissues,GSE46435,Human fetal vs adult scleral miRNA,Marginal,Low,"Developmental comparison, not experimental myopia"
+3_Myopia_Tissues,GSE53411,Mfrp mutant retinal degeneration study,Marginal,Low,"Retinal degeneration model, indirect myopia link"
+3_Myopia_Tissues,GSE58124,miRNA retina/sclera in mouse FDM,Relevant,Medium,miRNA-focused but biologically aligned
+3_Myopia_Tissues,GSE63225,ZNF644 retinal development study,Not relevant,Low,"Developmental epigenetics, weak myopia link"
+3_Myopia_Tissues,GSE78042,Lens-induced chick myopia RNA-seq,Highly relevant,High,Excellent core dataset
+3_Myopia_Tissues,GSE80327,Occlusion myopia induction and recovery RNA-seq,Highly relevant,High,Core dataset for comparative analysis
+3_Myopia_Tissues,GSE84220,miRNA-mRNA networks in mouse FDM,Relevant,Medium,"Strong regulatory analysis, niche focus"
+3_Myopia_Tissues,GSE89325,"Pathway analysis identifies altered mitochondrial metabolism, neurotransmission, structural pathways and complement cascade in retina/RPE/choroid in chick model of form-deprivation myopia",Relevant,Medium,Chick FDM and recovery retina/RPE/choroid; pooled samples reduce statistical power but still useful for pathway/module trends.
+3_Myopia_Tissues,GSE90118,Expression analysis of chicken chorioretinal tissues in control and myopic eyes with or without violet light,Conditional,Medium,Light intervention present but wavelength is violet (not red/PBM). Useful only if you include wavelength/light-spectrum comparison; otherwise may distract from red-light focus.
+3_Myopia_Tissues,GSE97125,Proteolytic processing of LRP2 on RPE cells regulates BMP activity to control eye size and refractive error,Marginal,Low,Genetic LRP2 loss-of-function model with eye enlargement/high-myopia phenotype; useful as background mechanism (BMP/LRP2) but not intervention myopia/PBM.
+3_Myopia_Tissues,GSE129479,Human fetal RPE eQTL analysis,Marginal,Low,"Genetics resource, not experimental myopia"
+3_Myopia_Tissues,GSE131831,Multi-tissue miRNA in mouse lens-induced myopia,Relevant,Medium,"Good tissue coverage, low n"
+3_Myopia_Tissues,GSE158732,Retinal networks for defocus detection,Relevant,Medium,"Mechanistic focus, not direct myopia model"
+3_Myopia_Tissues,GSE161497,Gene expression across 4 and 24 hours of growth modulating paradigms in chicks,Highly relevant,High,"Large RNA-seq dataset (54 retina) across FDM, recovery, and multiple anti-myopia treatments (e.g., atropine); excellent for shared pathway/module discovery."
+3_Myopia_Tissues,GSE200048,Genome-wide analysis of microRNA-mRNA gene regulatory networks reveals widespread involvement of microRNAs in visually guided eye emmetropization and myopia [miRNA retina],Relevant,Medium,Retina miRNA profiling in lens/defocus-induced myopia (mouse); strong regulatory layer but better as a miRNA-focused sub-analysis rather than core PBM narrative.
+3_Myopia_Tissues,GSE200049,miRNA networks in mouse sclera (defocus myopia),Relevant,Medium,"Strong miRNA regulatory data, but niche focus"
+3_Myopia_Tissues,GSE200051,mRNA retina in defocus-induced myopia,Highly relevant,High,Direct in vivo retina transcriptomics
+3_Myopia_Tissues,GSE200053,mRNA sclera in defocus-induced myopia,Highly relevant,High,"Direct scleral transcriptome, rare and valuable"
+3_Myopia_Tissues,GSE200054,SuperSeries emmetropization networks,Conditional,Medium,Must use subseries datasets
+3_Myopia_Tissues,GSE203555,Chick defocus-induced myopia (1 day),Relevant,High,Early-response transcriptomics
+3_Myopia_Tissues,GSE203585,Chick defocus-induced myopia (3 days),Relevant,High,Timepoint-resolved transcriptome
+3_Myopia_Tissues,GSE203604,Chick defocus-induced myopia (6 days),Relevant,High,Well-controlled short-term induction model
+3_Myopia_Tissues,GSE203619,Optical defocus control series,Not usable alone,Low,"Control only, requires paired dataset"
+3_Myopia_Tissues,GSE203629,Genome-wide analysis of gene regulatory networks in chickens reveals dynamic temporal changes in retinal signaling cascade underlying compensation to lens-imposed optical defocus [lens induced],Relevant,High,Chick lens-induced myopia (-10D) retina RNA-seq time course; strong model for defocus-driven myopia transcriptional response.
+3_Myopia_Tissues,GSE203630,Genome-wide analysis of gene regulatory networks in chickens reveals dynamic temporal changes in retinal signaling cascade underlying compensation to lens-imposed optical defocus,Conditional,Medium,"SuperSeries; must analyze individual SubSeries (e.g., 1d/3d/6d or control/treatment arms) rather than the SuperSeries as a standalone dataset."
+3_Myopia_Tissues,GSE227724,Diurnal retina/choroid expression in chick myopia onset,Highly relevant,High,Temporal resolution + two tissues
+3_Myopia_Tissues,GSE235684,Single Cell Transcriptomics Identifies Distinct Choroid Cell Populations Involved in Visually Guided Eye Growth,Highly relevant,High,Chick choroid scRNA-seq comparing FDM recovery vs control; high-value for choroid cell-type localization of myopia/emmetropization pathways.
+3_Myopia_Tissues,GSE235990,ScRNA-seq analysis of in vivo rat choroid and rat choroid in vitro co-cultured with human pluripotent stem cell (hPSC) derived endothelial cells,Marginal,Low,Choroid scRNA-seq but focuses on in vitro co-culture/endothelial interaction; pathological myopia mentioned only as context; weak alignment to myopia intervention.
+3_Myopia_Tissues,GSE253960,miR-204 in ARPE-19 cells,Not relevant,Low,"In vitro cell line, limited relevance to in vivo myopia"
+3_Myopia_Tissues,GSE261232,Diurnal retina/choroid transcriptomics in chick myopia,Highly relevant,High,"Progression vs onset design, mechanistically strong"
+3_Myopia_Tissues,GSE277911,LRP2 knockdown in iRPE cells,Not relevant,Low,In vitro knockdown system
+3_Myopia_Tissues,GSE280609,Scleral RNA-seq in guinea pig LIM,Relevant,High,Direct scleral remodeling transcriptomics
+3_Myopia_Tissues,GSE284642,Mouse FDM retina RNA-seq,Relevant (limited),Medium,Small n but valid biological model
+3_Myopia_Tissues,GSE285669,Scleral RNA-seq in guinea pig FDM + quercetin,Relevant,Medium,"Direct scleral mechanism, limited n"
+3_Myopia_Tissues,GSE309092,Remarkable composition shift of cone subtypes combined with changes on phototransduction due to cone mosaicism induced by ARR3 variants,Not relevant,Low,"ARR3 variant cone mosaicism scRNA-seq; genetic phototransduction mechanism, not experimental myopia intervention and not PBM."
