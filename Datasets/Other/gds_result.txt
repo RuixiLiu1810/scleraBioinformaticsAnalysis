@@ -1,0 +1,1639 @@
+
+1. Integrated multi-omics analysis of zinc finger proteins uncovers roles in RNA regulation.
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	synthetic construct; Homo sapiens
+Type:		Other; Expression profiling by high throughput sequencing
+Platforms: GPL34014 GPL24676 630 Samples
+FTP download: GEO (NARROWPEAK, SF, TSV, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE249nnn/GSE249247/
+Series		Accession: GSE249247	ID: 200249247
+
+2. Diel and circadian analysis of clock gene transcripts in central and peripheral tissues in the Atlantic salmon (Salmo salar)
+(Submitter supplied) Atlantic salmon (Salmo salar) pre-smolt optic tectum, saccus vasculosus and gill tissues were collected over a light:dark (LD, 8:16) cycle, constant light (LL) and constant dark (DD) time series at a four hour resolution Total RNA was extracted, RNA quality was assessed using BIORAD Experion, then submitted to a bespoke clock gene NanoString CodeSet
+Organism:	Salmo salar
+Type:		Expression profiling by array
+Platform: GPL28234 189 Samples
+FTP download: GEO (RCC) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE146nnn/GSE146530/
+Series		Accession: GSE146530	ID: 200146530
+
+3. NIAS Rice Project
+(Submitter supplied) [to be updated] Keywords: other
+Organism:	Oryza sativa; Matthiola incana; Bromus secalinus; Zea mays; Bromus inermis; Hordeum vulgare; Triticum aestivum
+Type:		Expression profiling by array
+Platform: GPL1245 145 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE1nnn/GSE1532/
+Series		Accession: GSE1532	ID: 200001532
+
+4. Genome-wide characterization of light-inducible responses reveals a hierarchical light-sensing cascade in N. crassa
+(Submitter supplied) To better understand the roles of WC-1, WC-2 and other putative photoreceptors in mediation of light signals and to identify new components in light sensing cascades, we used microarrays with genome-wide coverage to characterize light-inducible transcriptional changes in Neurospora crassa. After unsupervised hierarchical clustering of 90 microarrays, 316 genes, representing about 3.21% of the total genome, showed robust and consistent light responses. more...
+Organism:	Neurospora crassa
+Type:		Expression profiling by array
+Platform: GPL5796 135 Samples
+FTP download: GEO (DAT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE8nnn/GSE8932/
+Series		Accession: GSE8932	ID: 200008932
+
+5. Transcriptional Profiling Reveals Extraordinary Diversity Among Skeletal Muscle Tissues
+(Submitter supplied) Skeletal muscles are a diverse family of highly specialized tissues that perform a wide array of physiological activities and maintain whole-body glucose metabolism and energy homeostasis. Functional diversity is a distinctive feature of muscle tissues, which demonstrate remarkable variability in their speed of contraction, metabolic profile, resistance to fatigue, and regenerative capacity.  Unsurprisingly, many disorders of skeletal muscle afflict a remarkably specific subset of tissues, including muscular dystrophies, cancer cachexia, aging sarcopenia, and amyotrophic lateral sclerosis. more...
+Organism:	Mus musculus; Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platforms: GPL14844 GPL13112 126 Samples
+FTP download: GEO (BED, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE100nnn/GSE100505/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA391968
+Series		Accession: GSE100505	ID: 200100505
+
+6. Integrated multi-omics analysis of zinc finger proteins uncovers roles in RNA regulation [SLAM-Seq]
+(Submitter supplied) RNA interactome studies have revealed that hundreds of zinc finger proteins (ZFPs) are candidate RNA-binding proteins (RBPs), despite being annotated as DNA-interacting transcription factors. The RNA substrates of ZFPs and the functional significance of their potential roles as DNA- and RNA-binding proteins (DRBPs) remain largely uncharacterized. Here we present a systematic multi-omics analysis of the DNA and RNA binding targets and regulatory roles of more than 100 ZFPs representing 37 zinc finger families. more...
+Organism:	Homo sapiens
+Type:		Other
+Platform: GPL24676 120 Samples
+FTP download: GEO (TSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE268nnn/GSE268963/
+Series		Accession: GSE268963	ID: 200268963
+
+7. Transcriptome analysis of annotated coding genes and sORF in 16 organs and 17 environmental conditions at A. thaliana
+(Submitter supplied) There are 16 organ samples (dry seeds, 24H imbibed seeds, 48H imbibed seeds, juvenile rosette, adult rosette, senescence leaves, cauline leaves, stems, young buds, mature flower buds, flowers, young siliques, mature siliques and old siliques) with triplicates. There are 17 samples of different environmental samples (0 h white, 1 h white, 6 h white, 24 h white, dark, blue, far-red and red lights, control, cold 2h, cold 6h, hot 2h, hot 6h, NaCl 2h, NaCl 6h, dry 2h and dry 6h) with triplicates.
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL14937 99 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE34nnn/GSE34188/
+Series		Accession: GSE34188	ID: 200034188
+
+8. Decoupling behavioral and transcriptional responses to color in an eyeless cnidarian
+(Submitter supplied) We utilized the eyeless sea anemone, Nematostella vectensis, to quantify gene expression differences between different colors of light (red, green, blue) and in constant darkness through comparisons of 96 transcriptomes
+Organism:	Nematostella vectensis
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL23802 96 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE132nnn/GSE132526/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA548291
+Series		Accession: GSE132526	ID: 200132526
+
+9. Phytochrome C And Low Temperature Promote The Expression And Red Light Signaling Of Phytochrome D
+(Submitter supplied) Light is an ever-changing environmental parameter affecting almost every aspects of plant growth and development. It is perceived by photoreceptors, among them phytochromes (PHY) are responsible for monitoring the red and far-red part of the spectrum. Arabidopsis thaliana possesses five phytochromes genes, named through phyA-phyE. Whereas the function of phyA and phyB – that mediate most of the phytochrome responses – is extensively studied, our knowledge on other phytochromes are still rudimentary. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL26208 90 Samples
+FTP download: GEO (TSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE253nnn/GSE253043/
+Series		Accession: GSE253043	ID: 200253043
+
+10. Transcriptome-based molecular staging of human stem cell-derived retinal organoids uncovers accelerated photoreceptor differentiation by 9-cis retinal
+(Submitter supplied) Differentiation of neural retina in organoid cultures from human pluripotent stem cells (PSCs) is highly variable and requires an extended period of as many as 200 days. To provide objective assessment of different protocols and culture conditions, we performed transcriptome analysis and molecular staging using RNA-seq data from developing and adult human retina. Using a modified protocol with 9-cis retinal (9CRAL) instead of widely-used all-trans retinoic acid (ATRA) in the culture media, we show comparable differentiation of human embryonic and induced PSCs into a polarized, laminated architecture with all retinal cell types in retinal organoids. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL16791 90 Samples
+FTP download: GEO (TXT, XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE129nnn/GSE129104/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA530144
+Series		Accession: GSE129104	ID: 200129104
+
+11. Tomato Shade Avoidance: Unraveling Internode Elongation and Hormonal Harmony
+(Submitter supplied) This study provides a comparison of gene expression in two tomato cultivars, Moneymaker and M82, focusing on first internode and its innermost cell type pith—under two light conditions: white light with far-red supplementation (WL+FR) and the control condition of white light (WL). The samples were harvested at four time points leading to the point where internode elongation could be measured in response to WL+FR. more...
+Organism:	Solanum lycopersicum
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL21762 86 Samples
+FTP download: GEO (CSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE255nnn/GSE255611/
+Series		Accession: GSE255611	ID: 200255611
+
+12. Antagonism between blue and red light-signalling controls thallus flatness in Marchantia polymorpha
+(Submitter supplied) The growth orientation of the Marchantia polymorpha thallus – a system of dorsiventralized, indeterminate axes – is modulated by light. We show that red and blue light act antagonistically to control thallus flatness, with red light signalling promoting epinasty and blue light signalling promoting hyponasty. We found that loss-of-function mutations in the blue light receptor MpPHOT led to epinasty, while loss-of-function mutations in the red light receptor MpPHY resulted in hyponasty. more...
+Organism:	Marchantia polymorpha
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL36142 78 Samples
+FTP download: GEO (CSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE316nnn/GSE316508/
+Series		Accession: GSE316508	ID: 200316508
+
+13. Effect of methionine/choline deficient diet on liver and suprachiasmatic nucleus circadian transcriptome.
+(Submitter supplied) The feeding/fasting cycles controlled by our circadian clock impose great daily metabolic and physiological changes, and yet investigations into the consequences of metabolic deficiencies, either dietary or genetic, have often ignored the time of day or the circadian time of the animals or subjects. In addition, these deficiencies may themselves disrupt our circadian clock, causing secondary metabolic, physiological and behavioural disorders. more...
+Organism:	Mus musculus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL21103 72 Samples
+FTP download: GEO (CSV, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE252nnn/GSE252364/
+Series		Accession: GSE252364	ID: 200252364
+
+14. A combination of plasma membrane sterol biosynthesis and autophagy is required for shade-induced hypocotyl elongation
+(Submitter supplied) We hypothesized a convergence of transcriptome profiles in hypocotyls of low blue light (LB) or low red/far red light (LRFR) treated seedlings as both conditions trigger hypocotyl cell elongation. To test this hypothesis, we did a transcriptome analysis in of 5d-old long-day (LD)-grown Col-0 (wild type, WT), pif457, and yuc2589 seedlings treated for 3 hours with LB, LRFR or remaining in the same light condition (WL). more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL17639 72 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE174nnn/GSE174655/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA730903
+Series		Accession: GSE174655	ID: 200174655
+
+15. Biological Aging and Circadian Mechanisms in Murine Brown Adipose Tissue, Inguinal White Adipose Tissue, and Liver
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Mus musculus
+Type:		Expression profiling by array
+Platform: GPL6887 72 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE25nnn/GSE25325/
+Series		Accession: GSE25325	ID: 200025325
+
+16. Light cues induce transcriptional reprogramming and protective anticipation of environmental water loss in Pseudomonas syringae
+(Submitter supplied) The ecological significance of light perception in non-phototrophic bacteria remains largely elusive. In terrestrial environments, diurnal oscillations in light are often temporally coupled to other environmental changes, including increased temperature and evaporation. Here we report that light functions as an anticipatory cue that triggers protective adaptations to tolerate a future rapid loss of environmental water in leaf-associated Pseudomonas syringae pv. more...
+Organism:	Pseudomonas syringae pv. syringae B728a
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL29146 66 Samples
+FTP download: GEO (CSV, XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE232nnn/GSE232095/
+Series		Accession: GSE232095	ID: 200232095
+
+17. Blue light regulates phosphate deficiency-dependent primary root growth inhibition in Arabidopsis
+(Submitter supplied) Plants have evolved mechanisms to improve utilization efficiency or acquisition of inorganic phosphate (Pi) in response to Pi deficiency, such as altering root architecture, secreting acid phosphatases, and activating the expression of genes related to Pi uptake and recycling. Although many genes responsive to Pi starvation have been identified, transcription factors that affect tolerance to Pi deficiency have not been well characterized. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL12621 64 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE139nnn/GSE139100/
+Series		Accession: GSE139100	ID: 200139100
+
+18. Mapping the daily rhythmic transcriptome in the diabetic retina
+(Submitter supplied) Retinal function changes dramatically from day to night. Yet, clinical diagnosis, treatments, and experimental sampling occur during the day, leaving a significant gap in our understanding of the pathobiology occurring at night. While there is evidence that diabetes disrupts the circadian system that optimizes our physiology to the environmental light/dark cycle, the impact of such disruption is not well understood. more...
+Organism:	Mus musculus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL24247 58 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE233nnn/GSE233440/
+Series		Accession: GSE233440	ID: 200233440
+
+19. Immunotherapy against amyloid beta is modulated by meningeal lymphatic function
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Mus musculus
+Type:		Expression profiling by high throughput sequencing
+4 related Platforms 56 Samples
+FTP download: GEO (MTX, TSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE141nnn/GSE141917/
+Series		Accession: GSE141917	ID: 200141917
+
+20. Chlamydomonas diurnal transcriptome
+(Submitter supplied) We combined a highly synchronous photobioreactor culture system with frequent temporal sampling to characterize genome-wide periodic gene expression in Chlamydomonas.
+Organism:	Chlamydomonas reinhardtii
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL15922 56 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE71nnn/GSE71469/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA291337
+Series		Accession: GSE71469	ID: 200071469
+
+21. Identification of sleep and circadian alternative polyadenylation sites associated with APA-linked human brain disorders
+(Submitter supplied) Disruption of sleep and circadian rhythms are a comorbid feature of many pathologies, and can negatively influence many health conditions, including degenerative disease, metabolic illness, cancer, and various neurological disorders. Genetic association studies linking sleep and circadian disturbances with disease susceptibility have mainly focused on changes in gene expression due to mutations, such as single-nucleotide polymorphisms. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL20670 55 Samples
+FTP download: GEO (TXT, XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE250nnn/GSE250324/
+Series		Accession: GSE250324	ID: 200250324
+
+22. R-loop landscapes in Arabidopsis
+(Submitter supplied) The R-loop is a common chromatin feature presented from prokaryotic to eukaryotic genomes and has been revealed to be involved in multiple cellular processes and associated with many human diseases. Here, we take the advantage of our recently developed ssDRIP method to profile genome-wide R-loop levels and provided a first-hand R-loop atlas during Arabidopsis development and in response to various environmental factors.
+Organism:	Arabidopsis thaliana
+Type:		Other
+Platform: GPL23157 53 Samples
+FTP download: GEO (BW) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE116nnn/GSE116232/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA477830
+Series		Accession: GSE116232	ID: 200116232
+
+23. MicroRNA156 conditions auxin sensitivity to enable growth plasticity in response to environmental changes in Arabidopsis
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing
+Platforms: GPL26208 GPL23157 48 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE216nnn/GSE216362/
+Series		Accession: GSE216362	ID: 200216362
+
+24. AtGenExpress: Light treatments
+(Submitter supplied) AtGenExpress: A multinational coordinated effort to uncover the transcriptome of the multicellular model organism Arabidopsis thaliana (Hybridisations done at NASC). The activity of genes and their encoded products can be regulated in several ways, but transcription is the primary level, since all other modes of regulation (RNA splicing, RNA and protein stability, etc.) are dependent on a gene being transcribed in the first place. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL198 48 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE5nnn/GSE5617/
+Series		Accession: GSE5617	ID: 200005617
+
+25. Light- and plastid-regulated transcriptomes in Arabidopsis seedlings
+(Submitter supplied) Plastids emit signals that broadly affect cellular processes. Based on previous genetic analyses, we propose that plastid signaling regulates the downstream components of a light signaling network and that these interactions coordinate chloroplast biogenesis with both the light environment and development by regulating gene expression.  We tested these ideas by analyzing light-regulated and plastid-regulated transcriptomes. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL198 47 Samples
+FTP download: GEO (CEL, CHP, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE24nnn/GSE24517/
+Series		Accession: GSE24517	ID: 200024517
+
+26. Shift work disrupts circadian regulation of the transcriptome in hospital nurses
+(Submitter supplied) In the present study, we sought to determine the degree of circadian misalignments of hormonal and transcriptional rhythms with the timing of sleep-wake behavior on days off in day-shift and night-shift hospital nurses. We conducted a genome-wide microarray analysis on RNA isolated from PBMCs to examine individual variability of transcriptional rhythms.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL10558 44 Samples
+FTP download: GEO (IDAT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE122nnn/GSE122541/
+Series		Accession: GSE122541	ID: 200122541
+
+27. The histone methyltransferase MLL3 regulates genome-scale circadian transcription
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Mus musculus
+Type:		Expression profiling by array; Genome binding/occupancy profiling by high throughput sequencing
+Platforms: GPL11002 GPL6246 44 Samples
+FTP download: GEO (CEL, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE37nnn/GSE37396/
+Series		Accession: GSE37396	ID: 200037396
+
+28. BBX32 Role in Early Light Signaling in Arabidopsis
+(Submitter supplied) The transcriptional profiles of several genotypes of Arabidopsis seedling shoots were compared in dark and after 1 hr of monochromatic red-light treatment.
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL10037 43 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE21nnn/GSE21174/
+Series		Accession: GSE21174	ID: 200021174
+
+29. Binding of the Capicua repressor in response to pulses of ERK signaling in the early Drosophila embryo
+(Submitter supplied) We have measured by ChIP-seq the binding of Capicua transcriptional repressor (Cic) in Drosophila melanogaster embryos at early nuclear cycle 14. We compared binding in response to ERK activation, utilizing optogenetics.
+Organism:	Drosophila melanogaster
+Type:		Genome binding/occupancy profiling by high throughput sequencing
+Platform: GPL17275 40 Samples
+FTP download: GEO (BIGWIG, XLS, XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE130nnn/GSE130584/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA540683
+Series		Accession: GSE130584	ID: 200130584
+
+30. An SWAP1-SFPS-RRC1 splicing factor complex modulates pre-mRNA splicing to promote photomorphogenesis in Arabidopsis
+(Submitter supplied) To investigate the molecular and physiological functions of SWAP1 in light signaling. We show that SWAP1 modulates global gene expression and alternative splicing both under dark and red light treated conditions
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL26208 36 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE214nnn/GSE214299/
+Series		Accession: GSE214299	ID: 200214299
+
+31. Phytochrome B regulates reactive oxygen signaling during stress in plants.
+(Submitter supplied) Plants are essential for life on Earth converting light into chemical energy in the form of sugars. To adjust for changes in light intensity and quality, and to become as efficient as possible in harnessing light, plants evolved multiple light receptors, signaling, and acclimation mechanisms. In addition to altering plant metabolism, development and growth, light cues sensed by some photoreceptors, such as phytochromes, are also impacting many plant responses to biotic and abiotic stresses. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL26208 36 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE188nnn/GSE188732/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA780007
+Series		Accession: GSE188732	ID: 200188732
+
+32. Light-induced Changes in the Suprachiasmatic Nucleus Transcriptome Regulated by the ERK/MAPK Pathway
+(Submitter supplied) The mammalian master circadian pacemaker within the suprachiasmatic nucleus (SCN) maintains tight entrainment to the 24 hr light/dark cycle via a sophisticated clock-gated rhythm in the responsiveness of the oscillator to light. Intriguingly, entrainment is not merely a passive response, instead the internal oscillator responds and adjust its own timing to entrainment signals discriminating the time of day. more...
+Organism:	Mus musculus
+Type:		Expression profiling by array
+Platform: GPL20775 36 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE165nnn/GSE165799/
+Series		Accession: GSE165799	ID: 200165799
+
+33. Exposure of Eucalyptus grandis and E. globulus to varied temperature and elevated CO2 concentration alone or in combination have profound effect in the expression of genes controlling cell wall formation and remodeling
+(Submitter supplied) Several reports have investigated the effects of future climate conditions on photosynthesis and biomass production in woody plants but none combining temperature and atmospheric CO2 concentration. We used grow chambers to expose Eucalyptus grandis and E. globulus seedlings to three temperature regimes (10-12°C - low temperature, 20-22°C - control temperature and  33-35°C - high temperature) combined with two CO2 concentration (390 ppm – normal and 700 ppm - high). more...
+Organism:	Eucalyptus globulus; Eucalyptus grandis
+Type:		Expression profiling by high throughput sequencing
+Platforms: GPL29683 GPL20030 36 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE165nnn/GSE165931/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA698593
+Series		Accession: GSE165931	ID: 200165931
+
+34. Cryptochromes interact directly with PIFs to control plant growth in limiting blue light
+(Submitter supplied) Sun-loving plants have the ability to detect and avoid shading through sensing of both blue and red light wavelengths. Higher plant cryptochromes (CRYs) control how plants modulate growth in response to changes in blue light. For growth under a canopy, where blue light is diminished, CRY1 and CRY2 perceive this change and respond by directly contacting two bHLH transcription factors, PIF4 and PIF5. These factors are also known to be controlled by phytochromes, the red/far-red photoreceptors; however, transcriptome analyses indicate that the gene regulatory programs induced by the different light wavelengths are distinct. Our results indicate that CRYs signal by modulating PIF activity genome-wide, and that these factors integrate binding of different plant photoreceptors to facilitate growth changes under different light conditions.
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL17639 36 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE59nnn/GSE59699/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA255977
+Series		Accession: GSE59699	ID: 200059699
+
+35. Biological Aging and Circadian Mechanisms in Murine Brown Adipose Tissue, Inguinal White Adipose Tissue, and Liver (Jan 2010 dataset)
+(Submitter supplied) The circadian profile of the transcriptomes in murine tissues was compared between groups of young and old male mice. The oscillatory phase and absolute expression levels were evaluated as a function of biological age. Distinct differences in multiple pathways were apparent based on biological and circadian time in a tissue specific manner.
+Organism:	Mus musculus
+Type:		Expression profiling by array
+Platform: GPL6887 36 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE25nnn/GSE25324/
+Series		Accession: GSE25324	ID: 200025324
+
+36. Biological Aging and Circadian Mechanisms in Murine Brown Adipose Tissue, Inguinal White Adipose Tissue, and Liver (Nov 2009 dataset)
+(Submitter supplied) The circadian profile of the transcriptomes in murine tissues was compared between groups of young and old male mice. The oscillatory phase and absolute expression levels were evaluated as a function of biological age. Distinct differences in multiple pathways were apparent based on biological and circadian time in a tissue specific manner.
+Organism:	Mus musculus
+Type:		Expression profiling by array
+Platform: GPL6887 36 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE25nnn/GSE25323/
+Series		Accession: GSE25323	ID: 200025323
+
+37. Comparison analysis of rice and Arabidopsis photomorphogenesis
+(Submitter supplied) Long oligonucleotide microarrays were used for the study of expression profile changes during seedling photomorphogenesis in rice and in Arabidopsis. Different light quality treatments were applied to seedlings. To dissect organ-specific light effects, we further profiled shoot and root organs in both species. Keywords = rice Keywords = Arabidopsis Keywords = photomorphogenesis Keywords: ordered
+Organism:	Oryza sativa; Arabidopsis thaliana
+Type:		Expression profiling by array
+Platforms: GPL1077 GPL1829 36 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE2nnn/GSE2360/
+Series		Accession: GSE2360	ID: 200002360
+
+38. Genome-wide maps of CoRest-C, Rpd3, and CBP binding and nuclear RNA-seq in Drosophila mushroom body
+(Submitter supplied) Purpose: In Drosophila, we determined that neural activity-dependent transcription is controlled by CBP, Rpd3, and CoRest-C. To investigate the dynamics of those binding to the chromatin, and the relationship with activity-dependent transcription, we conducted the ChIP-seq assay for the three proteins, and nuclear RNA-seq analysis in mushroom body in Drosophila, either in naive state or after optogenetic activation. more...
+Organism:	Drosophila melanogaster
+Type:		Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing
+Platform: GPL23702 34 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE150nnn/GSE150642/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA633089
+Series		Accession: GSE150642	ID: 200150642
+
+39. Neurogenomic  signatures of successes and failures in core life-history transitions in a key insect pollinator
+(Submitter supplied) The switch between biological states during key life-history transitions requires major reprogramming at the behavioural level that is under the control of the brain. In this study we focused on major life-history transitions in bumblebee queens (Bombus terrestris) that involve switching from virgin to mated and reproductively mature. To reveal the molecular processes underpinning the behavioural changes that accompany these transitions, we characterised the neurogenomic state of queens that succeeded or failed in making these transitions. more...
+Organism:	Bombus terrestris
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18289 33 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE92nnn/GSE92730/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA358479
+Series		Accession: GSE92730	ID: 200092730
+
+40. PIF4/HEMERA-mediated daytime thermosensory growth requires the Mediator subunit MED14
+(Submitter supplied) Warm ambient temperatures do not trigger stress responses in plants but stimulate the growth of specific organs. The basic helix-loop-helix transcription factor PHYTOCHROME-INTERACTING FACTOR 4 (PIF4) plays a central role in regulating thermomorphogenetic hypocotyl elongation in various plant species, including the model dicotyledonous plant Arabidopsis thaliana. Although it is well known that PIF4 promotes plant thermosensory growth by activating key genes involved in the biosynthesis and signaling of the phytohormone auxin, the detailed molecular mechanism of such transcriptional activation is still not clear. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL19580 32 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE196nnn/GSE196969/
+Series		Accession: GSE196969	ID: 200196969
+
+41. Circadian disruption enhances HSF1 signaling and tumorigenesis in Kras-driven lung cancer
+(Submitter supplied) Disrupted circadian rhythmicity is a prominent feature of modern society and has been designated as a probable carcinogen by the World Health Organization. However, the biological mechanisms that connect circadian disruption and cancer risk remain largely undefined.  We demonstrate that exposure to chronic circadian disruption (chronic jetlag, CJL) increases tumor formation in a mouse model of KRAS-driven lung cancer. more...
+Organism:	Mus musculus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL23479 32 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE194nnn/GSE194097/
+Series		Accession: GSE194097	ID: 200194097
+
+42. Nuclear RNA-seq in Drosophila mushroom body to determine Kdm4B target genes
+(Submitter supplied) Purpose: In Drosophila, we tried to determine the neural activity-dependent transcription controlled by Kdm4B. We conducted nuclear RNA-seq analysis in mushroom body in Drosophila, either in naive state or after optogenetic activation. Methods: The nuclei of mushroom body were collected by immunoprecipitation-based method (Hirano Y., et al, 2016, Nature Communications, also see extraction protocol below). more...
+Organism:	Drosophila melanogaster
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL23702 30 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE221nnn/GSE221432/
+Series		Accession: GSE221432	ID: 200221432
+
+43. MicroRNA156 conditions auxin sensitivity to enable growth plasticity in response to environmental changes in Arabidopsis (RNA-Seq)
+(Submitter supplied) MicroRNAs (miRNAs) play diverse roles in plant development, but whether and how miRNAs participate in thermomorphogenesis remains ambiguous. Here we show that HYPONASTIC LEAVES1 (HYL1) – a key component of microRNA biogenesis – acts downstream of the thermal regulator PHYTOCHROME INTERACTING FACTOR 4 in temperature-dependent plasticity of hypocotyl growth in Arabidopsis. A hyl1-2 suppressor screen identified a dominant dicer-like1 (dcl1) allele, dcl1-24, that rescues hyl1-2’s defects in miRNA biosynthesis and warm temperature-induced hypocotyl elongation. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL26208 30 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE216nnn/GSE216360/
+Series		Accession: GSE216360	ID: 200216360
+
+44. The aureochrome photoreceptor PtAUREO1a is a highly effective blue light switch in diatoms
+(Submitter supplied) Aureochromes represent a unique type of blue-light photoreceptors that possess a blue-light sensing flavin-binding LOV-domain and a DNA-binding bZIP domain. Therefore, in contrast to other photoreceptors, aureochromes are considered as light-driven transcription factors. As a member of the essential group of marine primary producers, the pennate diatom Phaeodactylum tricornutum possesses four aureochromes (PtAUREO1a, 1b, 1c, 2). more...
+Organism:	Phaeodactylum tricornutum
+Type:		Expression profiling by high throughput sequencing
+Platforms: GPL17128 GPL29196 30 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE158nnn/GSE158698/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA666211
+Series		Accession: GSE158698	ID: 200158698
+
+45. Gene expression in pif1pif3pif4pif5 mutant under dark or red light conditions
+(Submitter supplied) Light initiates the seedling deetiolation transition by promoting major changes in gene expression mainly regulated by phytochrome (phy) photoreceptors. During the initial dark-to-light transition, phy photoactivation induces rapid changes in gene expression that eventually lead to the photomorphogenic development. Recent reports indicate that this process is achieved by phy-induced degradation of Phy-Interacting bHLH transcription Factors (PIFs) PIF1, PIF3 PIF4 and PIF5, which are partly redundant constitutive repressors of photomorphogenesis that accumulate in darkness. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL198 30 Samples
+FTP download: GEO (CEL, CHP) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE17nnn/GSE17159/
+Series		Accession: GSE17159	ID: 200017159
+
+46. Protective effects of red filtered light during IVF: transcriptomic analysis of murine embryos and embryo-derived EVs
+(Submitter supplied) Background: Light exposure of embryos during assisted reproduction affects embryo quality and implantation capacity in a wavelength dependent manner. We investigated the molecular mechanism of these light-induced changes through the comparative analysis of gene expression and regulatory miRNA profile of murine embryos cultured in dark environment and those exposed to white- or red filtered light. miRNA sequencing was used to assess the role of embryo-derived extracellular vesicles in the endometrium-embryo dialogue. more...
+Organism:	Mus musculus
+Type:		Expression profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing
+Platform: GPL16417 28 Samples
+FTP download: GEO (CSV, TXT, XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE266nnn/GSE266335/
+Series		Accession: GSE266335	ID: 200266335
+
+47. Plant Elongator in light signaling
+(Submitter supplied) Elongator is a histone acetyltransferase (HAT) complex associated with RNA polymerase II (RNAPII) to facilitate transcription elongation. It consists of subunits Elp1-6, with Elp3 conferring HAT activity. Elongator is conserved in yeast, plants and humans. In humans, mutations in Elp genes cause neuronal diseases. In plants, Elongator is a positive regulator of cell proliferation during leaf and root growth. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL12621 28 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE42nnn/GSE42053/
+Series		Accession: GSE42053	ID: 200042053
+
+48. Auxin signaling in the epidermis regulates stem growth via interactions with the brassinosteroid pathway
+(Submitter supplied) Growth of a complex multicellular organism requires coordinated changes in diverse cell types.  These cellular changes generate organs of the correct size, shape and functionality.  During plant development, the growth hormone auxin induces stem elongation; however, which cell types of the stem perceive the auxin signal and contribute to organ growth is poorly understood.  Here, we show that auxin signalling is required in many cell types for correct hypocotyl stem growth, with a key role for the epidermis. more...
+Organism:	Arabidopsis thaliana; Brassica rapa
+Type:		Expression profiling by high throughput sequencing
+Platforms: GPL17639 GPL21148 28 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE79nnn/GSE79881/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA317322
+Series		Accession: GSE79881	ID: 200079881
+
+49. Noncoding RNA HID1 promotes phyB-dependent seed germination by repressing the biosynthesis of ABA [RNA-seq]
+(Submitter supplied) Arabidopsis noncoding RNA HID1 acts as a positive regulator to promote phyB-mediated seed germination by modulating the biosynthesis of abscisic acid.
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL17639 27 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE195nnn/GSE195745/
+Series		Accession: GSE195745	ID: 200195745
+
+50. System responses to equal doses of photosynthetically usable radiation of blue, green, and red light in the marine diatom Phaeodactylum tricornutum.
+(Submitter supplied) We have studied the transcriptional, metabolic and photo-physiological responses to light of different spectral quality in the marine diatom Phaeodactylum tricornutum through time-series studies of cultures exposed to equal doses of photosynthetically usable radiation of blue, green and red light. The experiments showed that short-term differences in gene expression and profiles are mainly light quality-dependent. more...
+Organism:	Phaeodactylum tricornutum
+Type:		Expression profiling by array
+Platform: GPL7021 27 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE55nnn/GSE55959/
+Series		Accession: GSE55959	ID: 200055959
+
+51. Histone H3K4 methylation regulation and three-dimensional aggregating distribution of a subset of genomic loci mediated by CHD3 homolog PKL in Arabidopsis [9-day-old seedlings, RNA-Seq]
+(Submitter supplied) Arabidopsis PICKLE (PKL) is a putative CHD3-type chromatin remodeling factor. Despite its importance in environmental stimulus responses and plant development, how PKL is recruited to target gene loci and its detailed regulatory role in controlling target gene chromatin states is not fully understood. Here, we report genome-wide evidence for the recruitment of PKL by specific transcription factors, establish the molecular connection between PKL and H3K4me2/3, and demonstrate PKL is essential for the space-clustering distribution of its target genes. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL23157 24 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE305nnn/GSE305692/
+Series		Accession: GSE305692	ID: 200305692
+
+52. Quantitative transcriptome N6-methyladenosine profiling reveals the mechanism of far-red regulated anthocyanin homeostasis in Arabidopsis
+(Submitter supplied) N6-methyladenosine (m6A) is the most abundant messenger RNA modification in higher eukaryotes. Functional studies of the RNA m6A modification in plants have been limited by mapping individual m6A-modified sites in whole transcriptomes. In this study, we introduce the method m6A-selective allyl chemical labeling and sequencing (m6A-SAC-seq) for quantitative whole-transcriptome profiling of m6A at single-nucleotide resolution under light and dark conditions in Arabidopsis. more...
+Organism:	Arabidopsis thaliana
+Type:		Methylation profiling by high throughput sequencing
+Platform: GPL26208 24 Samples
+FTP download: GEO (BED) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE246nnn/GSE246071/
+Series		Accession: GSE246071	ID: 200246071
+
+53. Effect of the simulated shade on reproductive tissues (floral buds) of Arabidopsis thaliana
+(Submitter supplied) To investigate the effect of simulated shade on the genetic network regulating ovule development, we treated Arabidopsis adult plants with W or simulated shade (W+FR) for up to 24 h. After extracting total RNA from floral buds we performed gene expression profiling analysis using data from RNA-seq of two different treatments at different time points
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL19580 24 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE230nnn/GSE230448/
+Series		Accession: GSE230448	ID: 200230448
+
+54. NPR1 promotes blue light–induced plant photomorphogenesis by ubiquitinating and degrading PIF4
+(Submitter supplied) Light is a major determinant of plant growth and survival. NONEXPRESSER OF PATHOGENESIS-RELATED GENES 1 (NPR1) acts as a receptor for salicylic acid (SA) and serves as the key regulator of SA-mediated immune responses. However, the mechanisms by which plants integrate light and SA signals in response to environmental changes, as well as the role of NPR1 in regulating plant photomorphogenesis, remain poorly understood. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL31102 24 Samples
+FTP download: GEO (CSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE268nnn/GSE268390/
+Series		Accession: GSE268390	ID: 200268390
+
+55. GCN2 drives diurnal patterns in the hepatic integrated stress response and maintains circadian rhythms in whole body metabolism during amino acid insufficiency
+(Submitter supplied) Disruptions in circadian rhythms are associated with increased risk of developing metabolic diseases. General control nonderepressible 2 (GCN2), a primary sensor of amino acid insufficiency and activator of the integrated stress response (ISR), has emerged as a conserved regulator of the circadian clock in multiple organisms. The objective of this study was to examine diurnal patterns in hepatic ISR activation in the liver and whole-body rhythms in metabolism. more...
+Organism:	Mus musculus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL21103 24 Samples
+FTP download: GEO (CSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE262nnn/GSE262319/
+Series		Accession: GSE262319	ID: 200262319
+
+56. Nrf2 activation rescues stress-induced depression-like behaviour and inflammatory responses in male but not female rats
+(Submitter supplied) Background: Major depressive disorder (MDD) is a recurring affective disorder that is two times more prevalent in females than males. Evidence supports immune system dysfunction as a major contributing factor to MDD, notably in a sexually dimorphic manner. Nuclear factor erythroid 2-related factor 2 (Nrf2), a regulator of antioxidant signaling during inflammation, is dysregulated in many chronic inflammatory disorders, however its role in depression and the associated sex differences have yet to be explored. more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by array
+Platform: GPL17117 24 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE248nnn/GSE248186/
+Series		Accession: GSE248186	ID: 200248186
+
+57. Time of day dependent regulation of exercise-induced transcription in the heart
+(Submitter supplied) We sought to determine the global transcriptional response to exercise in the heart in a time-of-day dependent manner. To accomplish this, adult male mice (C57Bl/6, ~12 weeks of age) were habituated to treadmill exercise and exposed to a single bout of low-moderate intensity exercise (60 mintue, 10 m/min, 0% grade) at ZT0 (beginning of rest phase) or ZT12 (beginning of active phase). RNA was isolated from whole hearts harvested immediately after exercise (or from sedentary control mice) for RNA-Seq.
+Organism:	Mus musculus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL19057 24 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE229nnn/GSE229475/
+Series		Accession: GSE229475	ID: 200229475
+
+58. RRC1 is required for epidermal phyB siganling by maintaining the circadian rhythm by suppressing the alternative splicing of core clock genes.
+(Submitter supplied) Purpose : The goal of this study is to identify transcriptome changes induced by rrc1 mutation under red light. We compared the transcriptome of MLB (ML1pro::phyB-GFP/phyB-9) with EMS27 grown either in darkness or continuous red light to investigate the genes that the expression and the splicing patterns are regulated by epidermal phyB and/or RRC1. The transcriptome of Col-0 and rrc1-689 was further compared to enlarge the list of putative splicing targets of RRC1. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL19580 24 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE199nnn/GSE199039/
+Series		Accession: GSE199039	ID: 200199039
+
+59. Time of Day Determines Post-Exercise Metabolism in Mouse Adipose Tissue
+(Submitter supplied) The circadian clock is a cell-autonomous transcription-translation feedback mechanism that anticipates and adapts physiology and behavior to different phases of the day. A variety of factors including hormones, temperature, food-intake, and exercise can act on tissue-specific peripheral clocks to alter the expression of genes that influence metabolism, all in a time-of-day dependent manner. The aim of this study was to elucidate the effects of exercise timing on adipose tissue metabolism. more...
+Organism:	Mus musculus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL19057 24 Samples
+FTP download: GEO (CSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE199nnn/GSE199429/
+Series		Accession: GSE199429	ID: 200199429
+
+60. Chromatin footprints after double-hit stress
+(Submitter supplied) It was our goal to discern the epigenomic signatures of the ventral hippocampus, in male and female mice in a double hit model of acute stress: one hit of acute restraint stress followed by forced swim stress one week later.
+Organism:	Mus musculus
+Type:		Genome binding/occupancy profiling by high throughput sequencing
+Platform: GPL24247 24 Samples
+FTP download: GEO (BW) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE200nnn/GSE200670/
+Series		Accession: GSE200670	ID: 200200670
+
+61. Changs in Histone 3 Lysine 9 Acetylation (H3K9ac) in Arabidopsis seedlings in response to light
+(Submitter supplied) We report the changes in H3K9ac in Arabidopsis thaliana seedlings grown in continuous white light, darkness or darkness and 1 hour of red light
+Organism:	Arabidopsis thaliana
+Type:		Genome binding/occupancy profiling by high throughput sequencing
+Platform: GPL21785 24 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE181nnn/GSE181432/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA752040
+Series		Accession: GSE181432	ID: 200181432
+
+62. RNA-seq in normal human dermal fibroblast cells for understanding protective effects of visible red light (660nm) in response to UVB (312nm) exposure
+(Submitter supplied) The aim of this study is identifying potential signaling pathways involve with visible red light induced photoprotective effect against skin damage by UVB exposure, using transcriptomic analysis
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platforms: GPL11154 GPL16791 24 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE116nnn/GSE116968/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA480708
+Series		Accession: GSE116968	ID: 200116968
+
+63. Role of the White Collar photoreceptor WcoA on the F. fujikuroi transcriptome
+(Submitter supplied) The proteins of the White Collar 1 family (WC) constitute a major class of flavin photoreceptors, widely distributed in fungi, that work in cooperation with a WC 2 protein forming a regulatory complex. The WC complex was investigated in great detail in Neurospora crassa, a model fungus in photobiology studies, where it controls all its major photoresponses. The fungus Fusarium fujikuroi, a model system in the production of secondary metabolites, contains a single WC-1 gene called wcoA. more...
+Organism:	Fusarium fujikuroi
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL24816 24 Samples
+FTP download: GEO (TSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE159nnn/GSE159533/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA669998
+Series		Accession: GSE159533	ID: 200159533
+
+64. Global expression data from mouse dorsal, ventral and central suprachiasmatic nuclei sub-regions following phase advance inducing light exposure.
+(Submitter supplied) In mice and other mammals the suprachiasmatic nuclei (SCN) within the brain, synchronises daily rhythms in metabolism, physiology and behaviour to the Earth's local time. Whilst much is known about the SCN's time keeping mechanism, less is known about how it adjusts or resets timing to changes in local time beyond the induction of CRE regulated genes and the differential response of dorsal and ventral sub-regions of the SCN after light exposure known to advance rhythms. more...
+Organism:	Mus musculus
+Type:		Expression profiling by array
+Platform: GPL1261 24 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE53nnn/GSE53553/
+Series		Accession: GSE53553	ID: 200053553
+
+65. Transcript levels in mouse liver
+(Submitter supplied) Total RNA was isolated from liver samples of C57/BL6 mice over a circadian time course, 3 biological replicate samples per time point were collected and processed individually. RNA from each individual biological replicate sample was extracted using RNeasy mini kit (Qiagen Cat# 74106) and hybridized on an Affymetrix mouse Gene ST1.0 microarray.
+Organism:	Mus musculus
+Type:		Expression profiling by array
+Platform: GPL6246 24 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE37nnn/GSE37387/
+Series		Accession: GSE37387	ID: 200037387
+
+66. Allele-specific expression between Arabidopsis genus
+(Submitter supplied) We analyzed allele-specific expression (ASE) in leaf and floral tissues of F1 interspecific hybrids generated between the two closely related species of Arabidopsis thaliana and Arabidopsis lyrata with a whole-genome SNP tiling array (AtSNPtile1).
+Organism:	Arabidopsis thaliana; Arabidopsis lyrata; Arabidopsis thaliana x Arabidopsis lyrata
+Type:		Expression profiling by SNP array; Genome variation profiling by SNP array
+Platform: GPL13483 24 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE29nnn/GSE29037/
+Series		Accession: GSE29037	ID: 200029037
+
+67. Expression during deetioaltion under Rc in wt and phy mutant seedlings
+(Submitter supplied) Etiolated seedling response to one hour of continuous red light. Four-day-old dark-grown wild-type RLD and phyA101, phyB1  and phyAphyB  mutant seedlings were transferred to Rc (680 nm, 8  mol m-2 s-1) for 1 h or retained in darkness as controls. Three different biological replicates of each treatment were grown separately and extracted, processed, and analyzed independently.RNA was extracted and subjected to expression analysis by using the Affymetrix ATH1 microarray containing approximately 22,000 Arabidopsis genes .
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL198 24 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE3nnn/GSE3811/
+Series		Accession: GSE3811	ID: 200003811
+
+68. Photomorphogenesis of Arabidopsis seedlings is accompanied by complex alternative splicing alterations
+(Submitter supplied) We analyzed transcriptome-wide gene expression and AS changes in etiolated Arabidopsis seedlings exposed to red, blue, and white light. Our study revealed that different types of light signals trigger rapid AS responses of numerous genes, including splicing factors and other functional groups. Among these candidates was RRC1, which was previously shown to function in PHYB signaling. The light signaling phenotype of an rrc1 mutant could only be complemented with the splicing variant being up-regulated upon light exposure, indicating a self-reinforcing circuit. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL13222 22 Samples
+FTP download: GEO (TAB) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE70nnn/GSE70575/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA289063
+Series		Accession: GSE70575	ID: 200070575
+
+69. Expression data of Arabidopsis thaliana (Ler accession) phytochrome phyABCDE quintuple mutant and phyABDE quadruple mutant in response to red light, and their comparison to WT expression data
+(Submitter supplied) Phytochromes are red/far-red light photoreceptors. We sought to test at the transcriptomic level if Arabidopsis mutants lacking all phytochromes (from phyA to phyE), or just retaining trace levels of phyC, had transcriptional response to red light exposure.
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL198 22 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE31nnn/GSE31587/
+Series		Accession: GSE31587	ID: 200031587
+
+70. Phytochrome B-SPA-COP1 regulation of red light induced gene expressions in Arabidopsis thaliana
+(Submitter supplied) The mRNA expression profiles of the quadruple spa mutant spaQ and cop1-4 were analyzed in 1 hour red light treated condition. Under same condition, the gene expression changes in phyB-SPA1 interaction domain mutant was analyzed and compared with wild type.
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL19580 21 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE117nnn/GSE117114/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA481068
+Series		Accession: GSE117114	ID: 200117114
+
+71. Global analysis of gene expression associated with germination in tomato seeds.
+(Submitter supplied) Treatment of the seeds. The Solanum lycopersicum var. Money Maker wild type (MM) and fri1-1 mutant seeds were incubated on distilled-water saturated cotton wool in clear plastic boxes wrapped in black plastic sheets in darkness during 3 hours at 25°C. After that, the seeds were treated as follows: a) 24 hr of continuous irradiation with far-red light, FRc; b) 24 hr of FRc follow by a 10 min red light pulse (Rp), FRc+Rp; and c) complete darkness. more...
+Organism:	Solanum tuberosum; Solanum lycopersicum
+Type:		Expression profiling by array
+Platform: GPL3838 21 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE8nnn/GSE8246/
+Series		Accession: GSE8246	ID: 200008246
+
+72. A multisensor high-temperature signaling framework for triggering daytime thermomorphogenesis in Arabidopsis
+(Submitter supplied) The mRNA expression profiles of the albino mutant hmr-5 and hmr5pifq in Arabidopsis thaliana were analyzed under red light conditions at 50 μmol m^−2 s^−1 and warm ambient temperatures of 21°C and 27°C, with and without sucrose treatment.
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL26208 18 Samples
+FTP download: GEO (CSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE275nnn/GSE275012/
+Series		Accession: GSE275012	ID: 200275012
+
+73. Noncoding RNA HID1 promotes phyB-dependent seed germination by repressing the biosynthesis of ABA [ChIP-seq]
+(Submitter supplied) Arabidopsis noncoding RNA HID1 acts as a positive regulator to promote phyB-mediated seed germination by modulating the biosynthesis of abscisic acid.
+Organism:	Arabidopsis thaliana
+Type:		Genome binding/occupancy profiling by high throughput sequencing
+Platform: GPL17639 18 Samples
+FTP download: GEO (BW) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE195nnn/GSE195746/
+Series		Accession: GSE195746	ID: 200195746
+
+74. MicroRNA156 conditions auxin sensitivity to enable growth plasticity in response to environmental changes in Arabidopsis (miRNA-Seq)
+(Submitter supplied) MicroRNAs (miRNAs) play diverse roles in plant development, but whether and how miRNAs participate in thermomorphogenesis remains ambiguous. Here we show that HYPONASTIC LEAVES1 (HYL1) – a key component of microRNA biogenesis – acts downstream of the thermal regulator PHYTOCHROME INTERACTING FACTOR 4 in temperature-dependent plasticity of hypocotyl growth in Arabidopsis. A hyl1-2 suppressor screen identified a dominant dicer-like1 (dcl1) allele, dcl1-24, which rescues hyl1-2’s defects in miRNA biosynthesis and warm temperature-induced hypocotyl elongation. more...
+Organism:	Arabidopsis thaliana
+Type:		Non-coding RNA profiling by high throughput sequencing
+Platform: GPL23157 18 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE216nnn/GSE216361/
+Series		Accession: GSE216361	ID: 200216361
+
+75. Comparison of Saffron and Photobiomodulation on the light damaged rat retina.
+(Submitter supplied) Aim: To identify the genes and non-coding RNAs (ncRNAs) involved in the neuroprotective actions of a dietary anti-oxidant (saffron) and of photobiomodulation. Methods: We used a previously published assay of photoreceptor damage, in which albino Sprague Dawley rats raised in dim cyclic illumination (12h 5 lux, 12h darkness) are challenged by 24h exposure to bright (1,000 lux) light. Experimental groups were protected against light damage by pretreatment with dietary saffron (1mg/kg/day for 21d) or photobiomodulation (10 J/cm2 at the eye, daily for 5d). more...
+Organism:	Rattus norvegicus
+Type:		Expression profiling by array
+Platform: GPL6247 18 Samples
+FTP download: GEO (CEL, CHP) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE22nnn/GSE22818/
+Series		Accession: GSE22818	ID: 200022818
+
+76. Phytochrome Interacting Factors 4 and 5 redundantly limit seedling de-etiolation in continuous far-red light.
+(Submitter supplied) Phytochromes are red/far red photosensors regulating numerous developmental programs in plants. Among them phytochrome A (phyA) is essential to enable seedling de-etiolation in continuous far-red (FR) light a condition mimicking the environment under a dense canopy. The ecological relevance of this response is demonstrated by the high mortality rate of phyA mutants germinating in deep vegetational shade. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL198 18 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE16nnn/GSE16333/
+Series		Accession: GSE16333	ID: 200016333
+
+77. Gene expression profiling of sav mutants
+(Submitter supplied) Plants grown at high densities perceive a decrease in the red to far-red (R:FR) ratio of incoming light, resulting from absorption of red light by canopy leaves and reflection of far-red light from neighboring plants. These changes in light quality trigger a series of responses known collectively as the shade avoidance syndrome. During shade avoidance, stems elongate at the expense of leaf and storage organ expansion, there is reduced branching, and flowering is accelerated. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL198 18 Samples
+FTP download: GEO (CEL, CHP) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE9nnn/GSE9816/
+Series		Accession: GSE9816	ID: 200009816
+
+78. Photomorphogenesis of Myxococcocus macrosporus: New Insights for Light-Regulation of Cell Development
+(Submitter supplied) Myxobacteria are social bacteria distinguished among prokaryotes by a multicellular stage in their life cycle known as fruiting bodies formations, which is a response to nutrient deprivation. Additionally, fruiting body formation in Stigmatella aurantiaca is stimulated by light. Genome sequence of Myxococcus macrosporus, revealed the presence of a red-light photoreceptor, bacteriophytochrome (BphP), found in photosynthetic and non-photosynthetic bacteria. more...
+Organism:	Myxococcus xanthus; Corallococcus macrosporus
+Type:		Expression profiling by high throughput sequencing
+Platforms: GPL33817 GPL33816 16 Samples
+FTP download: GEO (CSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE244nnn/GSE244575/
+Series		Accession: GSE244575	ID: 200244575
+
+79. Transcriptomic analysis of the interaction between FLOWERING LOCUS T induction and photoperiodic signaling in response to spaceflight
+(Submitter supplied) Spaceflight has an impact on growth and development of higher plants at both vegetative stage and reproductive stage. A great deal of information has been available on the vegetative stage in space, but relatively little is known about the influence of spaceflight on plants at the reproductive stage. In this study, we constructed a transgenic Arabidopsis thaliana plants expressing flowering control gene, FLOWERING LOCUS T (FT), together with green fluorescent protein gene(GFP) under control of a heat shock-inducible promoter (HSP17.4), by which we induced FT expression inflight through remote controlling heating shock (HS) treatment. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL198 16 Samples
+FTP download: GEO (CEL, CHP, XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE190nnn/GSE190748/
+Series		Accession: GSE190748	ID: 200190748
+
+80. Genome-wide analyses reveal the coordination between alternative splicing and DNA methylation for light response in plants
+(Submitter supplied) In this study, we investigated the possibility that light regulates alternative splicing (AS) through modulating DNA methylation of specific gene loci. The bisulfite sequencing data were extensively evaluated with AS pattern from mRNA sequencing of samples with the same light treatment.
+Organism:	Arabidopsis thaliana
+Type:		Methylation profiling by high throughput sequencing
+Platform: GPL17639 16 Samples
+FTP download: GEO (CGMAP) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE115nnn/GSE115838/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA476242
+Series		Accession: GSE115838	ID: 200115838
+
+81. Blue light perception by epiphytic Pseudomonas syringae drives chemoreceptor expression enabling efficient plant infection
+(Submitter supplied) Blue light perception by epiphytic Pseudomonas syringae drives chemoreceptor expression enabling efficient plant infection
+Organism:	Pseudomonas syringae pv. tomato str. DC3000
+Type:		Expression profiling by array
+Platform: GPL23823 16 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE152nnn/GSE152188/
+Series		Accession: GSE152188	ID: 200152188
+
+82. SLAM-seq for K562 endogenous mRNA decay
+(Submitter supplied) mRNA translation decodes nucleotide into amino acid sequences. However, translation has also been shown to affect mRNA stability depending on codon composition in model organisms, although universality of this mechanism remains unclear. Here, using three independent approaches to measure exogenous and endogenous mRNA decay, we define which codons are associated with stable or unstable mRNAs in human cells. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18573 16 Samples
+FTP download: GEO (CSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE126nnn/GSE126522/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA522262
+Series		Accession: GSE126522	ID: 200126522
+
+83. Pseudomonas syringae pv. tomato DC3000 exploits light signals to optimize virulence and colonization of leaves
+(Submitter supplied) To explore the effect of light perception on Pseudomonas syringae pv. tomato DC3000 at a global level, we carried out microarray hybridization experiments. We hybridize custom-designed microarrays (Agilent Technologies) with probes isolated from PsPto after a 10 min treatment with either 20 μE/m2s blue light, 20 μE/m2s red light, 70 μE/m2s white light, or cells kept in the darkness.
+Organism:	Pseudomonas syringae pv. tomato str. DC3000
+Type:		Expression profiling by array
+Platform: GPL23823 16 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE101nnn/GSE101783/
+Series		Accession: GSE101783	ID: 200101783
+
+84. Mechanisms of age-dependent response to winter temperature in perennial flowering of Arabis alpina.
+(Submitter supplied) Transcriptomic profile of Arabis alpina apex enriched material. We compared apices from plants grown for 2 weeks in long days (20°C) (juvenile) with apices from plants grown for 8 weeks in long days (20°C) (adult) and apices from plants grown for 2 weeks and then shifted in vernalization for 4 weeks with apices from plants grown for 8 weeks and than shifted to vernalization for 4 weeks.
+Organism:	Arabidopsis thaliana; Arabis alpina
+Type:		Expression profiling by array
+Platform: GPL16007 16 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE40nnn/GSE40455/
+Series		Accession: GSE40455	ID: 200040455
+
+85. Circadian cycling of genome-wide histone methylation
+(Submitter supplied) Daily (circadian) clocks are essential for regulating and coordinating physiology in mammals. Modulation of local chromatin structure has been shown for only a small number of genes, principally thought to be directly modulated by Clock-mediated histone acetylation. Here we show that genome-wide changes of active and suppressive histone marks control global chromatin architecture over the day and night.
+Organism:	Mus musculus
+Type:		Genome binding/occupancy profiling by high throughput sequencing
+Platform: GPL9250 16 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE23nnn/GSE23550/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA131821
+Series		Accession: GSE23550	ID: 200023550
+
+86. Light activation of the sigmaB-mediated general stress-response of Bacillus subtilis
+(Submitter supplied) The sigma(B)-dependent general stress response in the common soil bacterium Bacillus subtilis can be elicited by a range of stress factors, such as starvation or an ethanol-, salt-, or heat-shock, via a complex upstream signaling cascade. Additionally, sigma(B) can be activated by blue light, via the phototropin homologue YtvA, a component of the environmental branch of the signaling cascade. The genome-wide transcriptomes of B. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168; Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL9817 16 Samples
+FTP download: GEO (PAIR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE19nnn/GSE19464/
+Series		Accession: GSE19464	ID: 200019464
+
+87. Transcriptomic choreography in response to light quality variation reveals metabolic acclimation in marine Nannochloropsis oceanica.
+(Submitter supplied) We report the transcriptomic dynamics and metabolic adaptation of Nannochloropsis oceanica to blue (410nm) and red (680nm) light by high-throghout Next-generation sequencing (NGS). Preferential excitation of different light spectra induces massive reprogramming of the Nannochloropsis transcriptome.
+Organism:	Nannochloropsis oceanica
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL16324 15 Samples
+FTP download: GEO (FA, GTF, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE139nnn/GSE139615/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA580491
+Series		Accession: GSE139615	ID: 200139615
+
+88. A light-independent allele of phytochrome B faithfully recapitulates photomorphogenic transcriptional networks
+(Submitter supplied) Dominant gain-of-function alleles of Arabidopsis phytochrome B were recently shown to confer light-independent, constitutive photomorphogenic (cop) phenotypes to transgenic plants (Su & Lagarias 2007 Plant Cell 19, 2124-2139). In the present study, comparative transcript profiling experiments were performed to assess whether the pattern of gene expression regulated by these alleles accurately reflects the process of photomorphogenesis in wild-type Arabidopsis. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL198 15 Samples
+FTP download: GEO (CEL, CHP) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE8nnn/GSE8951/
+Series		Accession: GSE8951	ID: 200008951
+
+89. Evidence of small interfering RNA in the fungus Fusarium fujikuroi
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Fusarium oxysporum f. sp. lycopersici; Fusarium fujikuroi
+Type:		Expression profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing
+Platforms: GPL24816 GPL22633 GPL34083 14 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE253nnn/GSE253166/
+Series		Accession: GSE253166	ID: 200253166
+
+90. Cryptochromes interact directly with PIFs to control plant growth in limiting blue light
+(Submitter supplied) Sun-loving plants have the ability to detect and avoid shading through sensing of both blue and red light wavelengths. Higher plant cryptochromes (CRYs) control how plants modulate growth in response to changes in blue light. For growth under a canopy, where blue light is diminished, CRY1 and CRY2 perceive this change and respond by directly contacting two bHLH transcription factors, PIF4 and PIF5. These factors are also known to be controlled by phytochromes, the red/far-red photoreceptors; however, transcriptome analyses indicate that the gene regulatory programs induced by the different light wavelengths are distinct. Our results indicate that CRYs signal by modulating PIF activity genome-wide, and that these factors integrate binding of different plant photoreceptors to facilitate growth changes under different light conditions.
+Organism:	Arabidopsis thaliana
+Type:		Genome binding/occupancy profiling by high throughput sequencing
+Platform: GPL17639 13 Samples
+FTP download: GEO (BED) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE68nnn/GSE68193/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA282026
+Series		Accession: GSE68193	ID: 200068193
+
+91. Integrated omics revealed regulatory mechanisms governing potato (Solanum tuberosum L.) seedling growth during shade avoidance syndrome
+(Submitter supplied) Background: Potato (Solanum tuberosum L.) is the fourth largest food crop worldwide with significant economic value and importance for food security. Shade avoidance syndrome (SAS) considerably affects crop architecture and productivity in high-density planting systems; however, its molecular mechanisms in potato remain poorly understood. Methods: Potato seedlings were subjected to four light treatments simulating different shade signals: white light (control, WL), low blue light (LBL, simulating blue light attenuation by plant canopies), low red:far-red ratio (WL+FR, simulating far-red reflection from neighboring plants), and their combination (LBL+FR, simulating complete plant shade environment). more...
+Organism:	Solanum tuberosum
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL16436 12 Samples
+FTP download: GEO (XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE313nnn/GSE313166/
+Series		Accession: GSE313166	ID: 200313166
+
+92. PP2A B''a and B''b regulation gene expression in dark to red transition in Arabidopsis thaliana.
+(Submitter supplied) The mRNA expression profiles of the WT and b''ab''b  were analyzed in 1 hour 8 μmol/m2s  red-light exposure and darkness after 4-day dark-grown. The gene expression changes was analyzed and compared between dark and red-light treated samples.
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL26208 12 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE174nnn/GSE174428/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA729790
+Series		Accession: GSE174428	ID: 200174428
+
+93. CFH1 tethers the circadian clock to red light dependent photomorphogenesis
+(Submitter supplied) Investigating the differential expression genes in cfh1 mutants, CFH1 decoys, and PIF3 over-expression lines.
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL26208 12 Samples
+FTP download: GEO (CSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE232nnn/GSE232806/
+Series		Accession: GSE232806	ID: 200232806
+
+94. Comparative study on berry development of two grape cultivars by transcriptomic analyses [Victoria]
+(Submitter supplied) Grape berry development is a highly coordinated, intricate and complex process with many morphological, biochemical and physiological changes occurring during the ripening process. Equally, ripening is an organoleptic characteristic linked to fruit development. The fruits Seedless (FS) and Victoria (VT) grape varieties exhibit many morphological and phytochemical differences, but genetic mechanisms underlying them remain poorly explored. more...
+Organism:	Vitis vinifera
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL25271 12 Samples
+FTP download: GEO (XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE153nnn/GSE153998/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA644784
+Series		Accession: GSE153998	ID: 200153998
+
+95. Comparative study on berry development of two grape cultivars by transcriptomic analyses [Flame Seedless]
+(Submitter supplied) Grape berry development is a highly coordinated, intricate and complex process with many morphological, biochemical and physiological changes occurring during the ripening process. Equally, ripening is an organoleptic characteristic linked to fruit development. The fruits Seedless (FS) and Victoria (VT) grape varieties exhibit many morphological and phytochemical differences, but genetic mechanisms underlying them remain poorly explored. more...
+Organism:	Vitis vinifera
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL25271 12 Samples
+FTP download: GEO (XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE153nnn/GSE153870/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA644376
+Series		Accession: GSE153870	ID: 200153870
+
+96. Role of the CryD photoreceptor on the F. fujikuroi transcriptome
+(Submitter supplied) This RNA-seq data set investigates the function of the DASH cryptochrome CryD in the fungus Fusarium fujikuroi, and are an extension of the former study on the role of the WcoA photoreceptor (GEO Series GSE159533) (Pardo-Medina J, Gutiérrez G, Limón MC, Avalos J (2021) Impact of the White Collar photoreceptor WcoA on the Fusarium fujikuroi transcriptome. Front Microbiol 11:1–17. https://doi.org/10.3389/fmicb.2020.619474)). more...
+Organism:	Fusarium fujikuroi
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL24816 12 Samples
+FTP download: GEO (TSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE223nnn/GSE223375/
+Series		Accession: GSE223375	ID: 200223375
+
+97. Circadian change of genes expressed in mice epidermis
+(Submitter supplied) Circadian rhythms are known to observed in all organs in mice. Skin is composed of epidermis, dermis, and subcutaneous tissue. Daily changes of epidermal genes are examined in mice. The epidermis acts as a primary barriers of the external pathogens invading into the organism. Gene expression profiles identified many bioactive substances showed daily rhythms including clock genes.
+Organism:	Mus musculus
+Type:		Expression profiling by array
+Platform: GPL1261 12 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE174nnn/GSE174155/
+Series		Accession: GSE174155	ID: 200174155
+
+98. On the discovery of ADRAM, an experience-dependent long noncoding RNA that drives fear extinction though direct interaction with the chaperone protein 14-3-3
+(Submitter supplied) Long-noncoding RNA (lncRNA) comprise a new class of genes that have been assigned key roles in development and disease. Many lncRNAs are specifically transcribed in the brain where they regulate the expression of protein-coding genes that underpin neuronal function; however, their role in learning and memory remains largely unexplored. We used RNA Capture-Seq to identify a large population of lncRNAs that are expressed in the infralimbic cortex of adult male mice in response to fear-related learning, with 14.5% of these annotated in the GENCODE database as lncRNAs with no known function. more...
+Organism:	Mus musculus
+Type:		Genome binding/occupancy profiling by high throughput sequencing; Other
+Platform: GPL21103 12 Samples
+FTP download: GEO (BW, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE181nnn/GSE181706/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA753078
+Series		Accession: GSE181706	ID: 200181706
+
+99. The carP lncRNA is a carS-related regulatory element with broad effects on the Fusarium fujikuroi transcriptome
+(Submitter supplied) Carotenoid biosynthesis in the fungus Fusarium fujikuroi is regulated by environmental factors, with light as the main stimulating signal. The CarS RING finger protein plays an important role downregulating the structural genes of the carotenoid pathway. A recent transcriptomic analysis on the effect of carS mutation identified a gene for a lncRNA upstream of carS, called carP, whose deletion results in increased levels of carS mRNA and lack of carotenoid production. more...
+Organism:	Fusarium fujikuroi
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL24816 12 Samples
+FTP download: GEO (TSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE173nnn/GSE173210/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA724694
+Series		Accession: GSE173210	ID: 200173210
+
+100. Transcription profiling of rice (cv. Nipponbare) coleoptiles treated with low-fluence UV-B
+(Submitter supplied) The elongation growth of japonica rice (cv. Nipponbare) coleoptiles was found  to be inhibited specifically by a short UV-B irradiation (e.g., 10 min) that provides a fluence as low as 1.0 μmol m-2. Here we analyzed if there is a similar response at transcriptional level using rice microarray.
+Organism:	Oryza sativa Japonica Group; Oryza sativa
+Type:		Expression profiling by array
+Platform: GPL6864 12 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE138nnn/GSE138450/
+Series		Accession: GSE138450	ID: 200138450
+
+101. Coordinated regulation of pre-mRNA splicing by the SFPS-RRC1 complex to promote photomorphogenesis in Arabidopsis
+(Submitter supplied) We report the application of illumina high throughput RNA sequencing for rrc1-3 mutants in both light and dark conditions(three replicates under each condition) in Arabidopsis.  By obtaining over 100 million reads (150bp paired_end) for each rRNA depleted lib, we compared the transcriptome profile between rrc1-3 mutant and Col-0 wild type light and dark conditions. We find that genome wide spliciing activities are general defective in rrc1-3 mutant comparing to Col-0 wild type, which indicates the importance of post-transcriptional processing on gene expression regulation. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platforms: GPL21785 GPL21179 12 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE114nnn/GSE114995/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA473499
+Series		Accession: GSE114995	ID: 200114995
+
+102. Circadian time-course microarray analysis of adult skeletal muscle from the Tamaxofin inducible muscle-specific Bmal1 knockout mice
+(Submitter supplied) We generated a tamoxifen-inducible skeletal muscle-specific Bmal1 knockout mouse model and performed a time-course microarray experiment to identify gene expression changes downstream of the molecular clock. We report the transcrpt expression profiles in adult gastrocnemius skeletal muscle harvested from iMS-Bmal1-/- and at 4 hour intervals for a full circadian time-course (6 time-points).
+Organism:	Mus musculus
+Type:		Expression profiling by array
+Platform: GPL6246 12 Samples
+FTP download: GEO (CEL, CHP, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE132nnn/GSE132916/
+Series		Accession: GSE132916	ID: 200132916
+
+103. RNA-Seq analysis comparing gene expression changes between Col-0 wild-type (WT) and sig2-2 mutant lines at the whole genome level
+(Submitter supplied) To understand the transcriptional role of SIGMA FACTOR 2 (SIG2) in Red (R) light-dependent growth and development, RNA-sequencing analysis was perfomed to compare gene expression in a sig2-2 mutant and Col-0 wild-type seedlings grown in R light at two developmental stages (1-day and 7-day).
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL17639 12 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE104nnn/GSE104518/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA412889
+Series		Accession: GSE104518	ID: 200104518
+
+104. Gene expression profile in gastric cancer cells by Verteporfin (VP)
+(Submitter supplied) Verteporfin (trade name Visudyne) is a medication used as a photosensitizer for photodynamic therapy to eliminate the abnormal blood vessels in the eye associated with conditions such as the wet form of macular degeneration. Verteporfin accumulates in these abnormal blood vessels and, when stimulated by nonthermal red light with a wavelength of 689 nm[1] in the presence of oxygen, produces highly reactive short-lived singlet oxygen and other reactive oxygen radicals, resulting in local damage to the endothelium and blockage of the vessels. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL10558 12 Samples
+FTP download: GEO (IDAT, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE77nnn/GSE77982/
+Series		Accession: GSE77982	ID: 200077982
+
+105. SPLICING FACTOR FOR PHYTOCHROME SIGNALING promotes photomorphogenesis by regulating alternative splicing in Arabidopsis
+(Submitter supplied) Purpose: The goals of this study are to compare the transcriptome profiling and alternative splicing (AS) profiling between Col-0 wild type and SFPS knockout mutant (sfps-2) through RNA-seq to determine the molecular mechanisms of how splicing factor SFPS regulates photomorphogenesis in Arabidopsis.  Results: Using an optimized data analysis workflow, we mapped about 100 million sequence reads per sample to the Arabidopsis genome (TAIR10) and identified 1495 differentially expressed genes between Col-0 and mutant dark samples; 1361 differentially expressed genes between Col-0 and mutant red light treated samples; 4291 differentially expressed genes between Col-0 dark and red light treated samples; and 4479 differentially expressed genes between mutant dark and red light treated samples. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL21179 12 Samples
+FTP download: GEO (TXT, XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE85nnn/GSE85883/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA339647
+Series		Accession: GSE85883	ID: 200085883
+
+106. RNA-seq analysis reveals the role of red light in resistance against Pseudomonas syringae pv. tomato DC3000 in tomato plants
+(Submitter supplied) Background: Plants attenuate their responses to a variety of bacterial and fungal pathogens, leading to higher incidences of pathogen infection at night. However, little is known about the molecular mechanism responsible for the light-induced defence response; transcriptome data would likely facilitate the elucidation of this mechanism. Results: In this study, we observed diurnal changes in tomato resistance to Pseudomonas syringae pv. more...
+Organism:	Solanum lycopersicum
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL16345 12 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE64nnn/GSE64087/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA270083
+Series		Accession: GSE64087	ID: 200064087
+
+107. Analysis of gene expression controlled by light and brassinosteroids
+(Submitter supplied) Plant photomorphogenesis and skotomorphogenesis depend on interplay of various plant hormones. Brassinosteroids (BRs) play crucial roles during hypocotyl establishment both in the light and darkness. Arabidopsis brassinosteroid insensitive1 (bri1-5) is a partial loss-of-function mutant, and the short-hypocotyl phenotype of bri1-5 is greatly suppressed by a long-hypocotyl mutant phytochrome B (pbyB-77) at the double mutant for the two in the light conditions to display additive phenotypes of both. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL198 12 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE46nnn/GSE46456/
+Series		Accession: GSE46456	ID: 200046456
+
+108. AtbZIP16 integrates light and hormone signaling pathways to regulate Arabidopsis early seedling development
+(Submitter supplied) In response to environmental light signals, transcriptomic adjustment plays an important role in Arabidopsis seed germination and seedling development. G-box cis-element is commonly present in promoters of genes positively or negatively responding to the light signal. For the pursuit of additional transcriptional regulator modulating light-mediated transcriptome changes, we have identified AtbZIP16, a basic region/leucine zipper motif transcription factor, via G-box DNA affinity chromatography. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL198 12 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE30nnn/GSE30910/
+Series		Accession: GSE30910	ID: 200030910
+
+109. Response to low R/FR light ratio in wt and brc1 mutant Arabidopsis axillary buds
+(Submitter supplied) To study the transcriptomic profile of wt and brc1 mutant axillary buds during the shade avoidance response, we simulated a canopy shade with a low R/FR light ratio. We treated plants with white light supplemented with far-red light (Red light = 29 μeinstein · m-2 seg-1, Far-Red light= 146 μeinstein · m-2 seg-1) for 8 hours. Control plants were left for 8 hours in white light (Red light = 29 μeinstein · m-2 seg-1, Far-Red light= 2.2 μeinstein · m-2 seg-1) .
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL9020 12 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE27nnn/GSE27273/
+Series		Accession: GSE27273	ID: 200027273
+
+110. Transcriptomics of Axillary Bud Outgrowth Regulation by Shade Signals in Arabidopsis
+(Submitter supplied) Aims: To determine the changes in the Arabidopsis axillary bud transcriptome in response to changes in the red light (R) to far red light (FR) ratio (R:FR). Background: The branching habit of plants is a key determinant of overall plant form and function with great relevance to modern agriculture. Shade signals transduced by phytochromes are major regulators of axillary bud outgrowth, and in turn control branching in both natural and agricultural environments. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL198 12 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE42nnn/GSE42415/
+Series		Accession: GSE42415	ID: 200042415
+
+111. Arabidopsis thaliana seedlings:early light regulated gene expression in Ler wildtype versus eid3 mutant
+(Submitter supplied) Transcriptional profiling of Arabidopsis thaliana Ler wildtype and eid3 (empfindlicher im dunkelroten Licht 3) mutant seedlings in darkness and 45 min after a red-light pulse.
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL9020 12 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE33nnn/GSE33856/
+Series		Accession: GSE33856	ID: 200033856
+
+112. Transcriptome in 129sv and Crx-/- pineal gland at ZT (Zeitgeber time) 6 and ZT20
+(Submitter supplied) The cone-rod homeobox gene (Crx) encodes Crx, a transcription factor selectively expressed in two cell types, retinal photoreceptors and the melatonin secreting pinealocytes of the pineal gland. In this report the role of Crx in regulating gene expression in the mammalian pineal gland was extended using Affymetrix GeneChip technology. Deletion of Crx results in broad modulation of the mouse pineal transcriptome, including a >2-fold downregulation of 543 genes and a >2-fold upregulation of 745 genes. more...
+Organism:	Mus musculus
+Type:		Expression profiling by array
+Platform: GPL1261 12 Samples
+FTP download: GEO (CEL, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE24nnn/GSE24625/
+Series		Accession: GSE24625	ID: 200024625
+
+113. Molecular characterization of a cryptochrome in Neurospora crassa
+(Submitter supplied) Cryptochromes were identified in plants and animals where they function as either photoreceptors or circadian clock components. In the filamentous fungus Neurospora, the biological function of cryptochrome has not yet been explored. Here, we demonstrate that Neurospora crassa cryptochrome (Nc cry) is a DASH-type of cryptochrome, capable of  binding FAD and MTHF, whose transcript and protein levels are both strongly induced by blue light in a wc-1 dependent manner. more...
+Organism:	Neurospora crassa
+Type:		Expression profiling by array
+Platform: GPL8206 12 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE14nnn/GSE14909/
+Series		Accession: GSE14909	ID: 200014909
+
+114. Expression data from Col-0 and pil5 imbibed seeds after far-red or far-red/red light irradiation.
+(Submitter supplied) PIL5 is a key negative regulator of phytochrome mediated seed germination and PIL5 protein is degraded by red light irradiation through phytochrome. The microarray aimed to find various red light-regulated genes and PIL5-regulated genes in the imbibed seeds.  Keywords: genetic modification
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL198 12 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE14nnn/GSE14374/
+Series		Accession: GSE14374	ID: 200014374
+
+115. Rhythmic growth explained by coincidence between internal and external cues
+(Submitter supplied) Plant hypocotyls elongate in response to darkness.  The response to darkness is gated by the circadian clock, such that wild-type plants (Col) only respond to darkness with growth once every 24 hours, whereas arrhythmic lines, such as CCA1-34, will respond to darkness with growth at any time of day.  The experiment here was designed to find genes whose expression was correlated with growth. It should also pick up other genes that are gated by the circadian clock or that are direct targets of CCA1. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL198 12 Samples
+FTP download: GEO (CEL, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE6nnn/GSE6906/
+Series		Accession: GSE6906	ID: 200006906
+
+116. red200micE_vs_white20micE
+(Submitter supplied) Series of 6 repetitions of hybridization of treatment (red200micE) and control (white20micE) each. Comparison of plants grown for 48 hours at 200µE red light versus plants exposed for 48 hours at 20µE to white light. E. Lopez, unpublished Keywords: repeat sample
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL513 12 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE1nnn/GSE1247/
+Series		Accession: GSE1247	ID: 200001247
+
+117. Immunomodulation with minocycline rescues retinal degeneration in juvenile neuronal ceroid lipofuscinosis (jNCL) mice highly susceptible to light damage
+(Submitter supplied) We compared retinal transcriptomes of jNCL mice and wild-type mice under conditions of light damage
+Organism:	Mus musculus
+Type:		Expression profiling by array
+Platform: GPL23038 10 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE118nnn/GSE118664/
+Series		Accession: GSE118664	ID: 200118664
+
+118. Functional aspects of meningeal lymphatics in ageing and Alzheimer's disease [3 of 3]
+(Submitter supplied) Aging is a major risk factor for many neurological pathologies, including Alzheimer’s disease (AD). However, the mechanisms underlying brain aging and cognitive decline remain elusive. Body tissues are perfused by interstitial fluid (ISF), which is locally reabsorbed via the lymphatic vascular network. In contrast, the parenchyma of the central nervous system (CNS) is devoid of lymphatic vasculature; in the brain, removal of cellular debris and toxic molecules, such as amyloid beta (A) peptides, is mediated by a combination of transcellular mechanisms of transport across the blood−brain and blood−cerebrospinal fluid (CSF) barriers, phagocytosis and digestion by resident microglia and recruited monocytes/macrophages, and CSF influx and ISF efflux through a paravascular route. more...
+Organism:	Mus musculus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL17021 10 Samples
+FTP download: GEO (TSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE113nnn/GSE113351/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA450860
+Series		Accession: GSE113351	ID: 200113351
+
+119. Functional aspects of meningeal lymphatics in ageing and Alzheimer's disease [2 of 3]
+(Submitter supplied) Aging is a major risk factor for many neurological pathologies, including Alzheimer’s disease (AD). However, the mechanisms underlying brain aging and cognitive decline remain elusive. Body tissues are perfused by interstitial fluid (ISF), which is locally reabsorbed via the lymphatic vascular network. In contrast, the parenchyma of the central nervous system (CNS) is devoid of lymphatic vasculature; in the brain, removal of cellular debris and toxic molecules, such as amyloid beta (A) peptides, is mediated by a combination of transcellular mechanisms of transport across the blood−brain and blood−cerebrospinal fluid (CSF) barriers, phagocytosis and digestion by resident microglia and recruited monocytes/macrophages, and CSF influx and ISF efflux through a paravascular route. more...
+Organism:	Mus musculus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL17021 10 Samples
+FTP download: GEO (TSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE104nnn/GSE104182/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA411990
+Series		Accession: GSE104182	ID: 200104182
+
+120. Arabidopsis phytochrome A directly targets numerous promoters for individualized modulation of genes in wide range of pathways
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing
+Platform: GPL13222 10 Samples
+FTP download: GEO (BED) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE48nnn/GSE48770/
+Series		Accession: GSE48770	ID: 200048770
+
+121. Phytochrome C and Low Temperature Promote the Expression and Red Light Signaling of Phytochrome D
+(Submitter supplied) Light is an ever-changing environmental parameter affecting almost every aspects of plant growth and development. It is perceived by photoreceptors, among them phytochromes (PHY) are responsible for monitoring the red and far-red part of the spectrum. Arabidopsis thaliana possesses five phytochromes genes, named through phyA-phyE. Whereas the function of phyA and phyB – that mediate most of the phytochrome responses – is extensively studied, our knowledge on other phytochromes are still rudimentary. more...
+Organism:	Arabidopsis thaliana
+Type:		Genome binding/occupancy profiling by high throughput sequencing
+Platform: GPL26208 9 Samples
+FTP download: GEO (BW, NARROWPEAK) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE253nnn/GSE253236/
+Series		Accession: GSE253236	ID: 200253236
+
+122. Transcriptome analysis of gene expression divergence in BBX11 mutation in red light
+(Submitter supplied) phytochrome B (phyB) acts as the red light photoreceptor and negatively regulates the growth-promoting factor PHYTOCHROME INTERACTING 4 (PIF4) through a direct physical interaction, which in turn changes the expression of a large number of genes. phyB-PIF4 module regulates a variety of biological and developmental processes in plants. In this study, we demonstrate that B-BOX PROTEIN 11 (BBX11) physically interacts with both phyB and PIF4. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL26208 9 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE166nnn/GSE166109/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA699276
+Series		Accession: GSE166109	ID: 200166109
+
+123. Effect of 660-nm diode laser in the treatment of human breast epithelium by RNA sequencing
+(Submitter supplied) Red light radiation has been proven to provide clinical benefits to human health. Our investigation was conducted to characterize tissue morphology of mouse breast post 660 nm-laser radiation with low power and long-term exposure.
+Organism:	Mus musculus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL24247 9 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE207nnn/GSE207183/
+Series		Accession: GSE207183	ID: 200207183
+
+124. ALA_PDT promotes the ferroptosis-like death of Mycobacterium abscessus and antibiotic sterilization via oxidative stress
+(Submitter supplied) Mycobacterium abscessus is one of the common clinical non-tuberculous mycobacteria (NTM) which can cause severe skin infections. 5-Aminolevulinic acid photodynamic therapy (ALA_PDT) is an emerming effective antimicrobial medication. To explore whether ALA_PDT can treat M. abscessus infections, we found that ALA_PDT can kill M. abscesses via colony forming unit method. ALA_PDT promoted ferroptosis-like death of M. more...
+Organism:	Mycobacteroides abscessus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL31177 9 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE193nnn/GSE193092/
+Series		Accession: GSE193092	ID: 200193092
+
+125. Transcriptional response of Arabidopsis seedlings to light
+(Submitter supplied) We report the transcriptomic response of Arabidopsis thaliana seedlings grown in continuous white light, darkness or darkness and 1 hour of red light
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL13222 9 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE181nnn/GSE181167/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA750922
+Series		Accession: GSE181167	ID: 200181167
+
+126. Karrikins control seedling photomorphogenesis through the HY5-BBX transcriptional module.
+(Submitter supplied) Karrikins (KARs) are a class of butenolide molecules found in the smoke of burned plant material that can induce germination of many plant species that emerge after fire. Intriguingly, KAR perception is widely conserved and not limited to fire-followers. For example, germination of dormant Arabidopsis thaliana seeds can also be stimulated by KARs. Additionally, KAR treatment enhances responses of seedlings to light. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL24025 9 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE166nnn/GSE166857/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA702130
+Series		Accession: GSE166857	ID: 200166857
+
+127. Identification of BBX proteins as rate-limiting co-factors of HY5
+(Submitter supplied) As a source of both energy and environmental information, the importance for plants to monitor the incoming light is evidenced by the highly integrated nature of the light signal transduction pathway with numerous other pathways throughout plant development. One of these signal integrators is the bZIP transcription factor HY5 which holds a key role as a positive regulator of light signalling in plants. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL24025 9 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE137nnn/GSE137147/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA564640
+Series		Accession: GSE137147	ID: 200137147
+
+128. Transcriptome analysis of Dunaliella salina on carotenoid biosynthesis under red and blue light induction
+(Submitter supplied) Light quality is an important abiotic factor that affects growth and development of photosynthetic organism. In this study, D. salina was exposed to red (660 nm) and blue light (450 nm), and cell growth, pigments, and transcriptome were analyzed. The RNA of D. salina was sequenced and transcriptomic response of algal cells after transitioning from white light to red and blue light was investigated. Genes encoding for enzymes involved in photosynthesis were down-regulated, whereas genes involved in the metabolism of carotenoid were up-regulated. Genes encoding for photoprotective enzymes related to reactive oxygen species scavenging were up-regulated under both red and blue light. The present transcriptomic study would assist in the comprehensive understanding of carotenoid biosynthesis of D. salina.
+Organism:	Dunaliella salina
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL25649 9 Samples
+FTP download: GEO (FASTA, XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE128nnn/GSE128019/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA526058
+Series		Accession: GSE128019	ID: 200128019
+
+129. Tracing information flow from Erk to target gene induction reveals mechanisms of dynamic and combinatorial control
+(Submitter supplied) In prior work we developed an optogenetic system for delivering highly precise, time-varying inputs to Ras, termed OptoSOS (Toettcher et al., 2013). This system relies on a membrane-targeted photoswitchable protein (Phy-CAAX) and a cytoplasmic Ras activator (PIF-SOScat) whose localization to the membrane can be controlled with light. In this system, Phy/PIF heterodimerization can be triggered on and off by exposure to 650 and 750 nm light, respectively. more...
+Organism:	Mus musculus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL13112 9 Samples
+FTP download: GEO (TXT, XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE100nnn/GSE100816/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA393169
+Series		Accession: GSE100816	ID: 200100816
+
+130. Gene expression in hemera mutants in red light condition
+(Submitter supplied) The hemera (hmr) mutant was identified as the first photomorphogenetic mutant with the combination of long hypocotyl and albino phenotypes in the light. Phytochrome-Interacting bHLH transcription Factors (PIFs), which are repressors of photomorphogenesis accumulate in darkness and are degraded in the light in a phytochrome-dependent manner. Two PIFs, PIF1 and PIF3 accumulated in the light in hmr mutants. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL198 9 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE43nnn/GSE43311/
+Series		Accession: GSE43311	ID: 200043311
+
+131. WT and fhy3 mutant in constant red light
+(Submitter supplied) The red-light regulated transcription factors FHY3 and FAR1 form a key point of light input to the plant circadian clock in positively regulating expression of genes within the central clock. However, the fhy3 mutant shows an additional red light-specific disruption of rhythmicity which is inconsistent with this role. Here we demonstrate that only fhy3 and not far1 mutants show this red specific disruption of rhythmicity. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL198 8 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE201nnn/GSE201929/
+Series		Accession: GSE201929	ID: 200201929
+
+132. The roles of  red light and phytochrome A/B in photomorphogenesis
+(Submitter supplied) Analysis of etiolated seedlings  exposed for 1hr to red light. Phytochromes are red/far-red light receptors,  palying important roles in photomorphogenesis.  Results suggest that red light and phytochromes regulate a set of  genes' expression in seedlings.
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL17639 8 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE111nnn/GSE111380/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA436745
+Series		Accession: GSE111380	ID: 200111380
+
+133. Photoperiodic spectral tuning of carbon metabolism in heterotrophic marine flavobacteria
+(Submitter supplied) Influence of the constant full-spectrum light and short-to-long wavelengths of the visible spectrum (red, green and blue lights) and the significance of 12 h photoperiod was tested on heterotrophic marine flavobacteria Siansivirga zeaxanthinifaciens CC-SAMT-1T. RNA-seq analysis revealed remarkable qualitative and quantitative variations in terms of gene expression in CC-SAMT-1T with respect to incident lights. more...
+Organism:	Siansivirga zeaxanthinifaciens CC-SAMT-1
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL26505 8 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE129nnn/GSE129810/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA532887
+Series		Accession: GSE129810	ID: 200129810
+
+134. Expression profiles of dark or red-light treated  WT and phytochrome mutants
+(Submitter supplied) The mRNA expression profiles of the wild type, phyB and phyAB mutants were analyzed with darkness or 1 hour red light treatment.  Results provide insight into the role of red-light and phytochromes in gene expression.
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL17639 8 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE118nnn/GSE118824/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA486910
+Series		Accession: GSE118824	ID: 200118824
+
+135. The JA-pathway MYC transcription factors regulate photomorphogenic responses by modulating the expression of HY5 and PIF targets
+(Submitter supplied) Jasmonates are key regulators of the balance between defence and growth in plants. However, the molecular mechanisms by which activation of defences reduces growth are not yet understood. Here, we analyze the role of MYC transcription factors (TFs) and JA in photomorphogenic growth. We found that multiple myc mutants share light-related phenotypes with mutants of the phytochrome B photoreceptor, regarding seed germination and hypocotyl growth. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL9020 8 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE114nnn/GSE114590/
+Series		Accession: GSE114590	ID: 200114590
+
+136. Expression data from epidermis specific phytochrome B or global phytochrome B line comparing to phyB-9 mutant.
+(Submitter supplied) Seedling hypocotyls display negative gravitropism in the dark but agravitropism in the light. The Arabidopsis thaliana pif quadruple mutant (pifQ), which lacks four PHYTOCHROME-INTERACTING FACTORS (PIFs), is agravitropic in the dark. Endodermis-specific expression of PIF1 rescues gravitropism in pifQ mutant seedlings. Since phytochromes induce light responses by inhibiting PIFs and the COP1-SPA ubiquitin E3 ligase complex in the nucleus, we asked whether phyB can cell autonomously inhibit hypocotyl negative gravitropism in the endodermis. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL12621 8 Samples
+FTP download: GEO (TXT, XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE87nnn/GSE87591/
+Series		Accession: GSE87591	ID: 200087591
+
+137. Integrated RNA-seq and sRNA-seq analysis reveals miRNA effects on secondary metabolism in Solanum tuberosum L
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Solanum tuberosum
+Type:		Non-coding RNA profiling by high throughput sequencing; Expression profiling by high throughput sequencing
+Platform: GPL16436 8 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE79nnn/GSE79986/
+Series		Accession: GSE79986	ID: 200079986
+
+138. RNA-seq analysis of the transcriptional response to blue and red light in the extremophilic red alga, Cyanidioschyzon merolae
+(Submitter supplied) Light is one of the main environmental cues that affects the physiology and behavior of many organisms. The effect of light on genome-wide transcriptional regulation has been well-studied in green algae and plants, but not in red algae. Cyanidioschyzon merolae is used as a model red algae, and is suitable for studies on transcriptomics because of its compact genome with a relatively small number of genes. more...
+Organism:	Cyanidioschyzon merolae
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL22093 8 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE83nnn/GSE83828/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA327116
+Series		Accession: GSE83828	ID: 200083828
+
+139. Transcriptomes of transgenic rice expressing a constitutively active phytochrome OsPHYB-Y283H (OsYHB) allele
+(Submitter supplied) The present study quantifies the transcriptomes of wild-type and transgenic Ubi::OsYHB rice seedlings (in the genetic background of Oryza sativa ssp. japonica CV Nipponbare) grown in the dark or under continous red light (Rc, at 50 µmol m-2 s-1) conditions.
+Organism:	Oryza sativa Japonica Group; Oryza sativa
+Type:		Expression profiling by array
+Platform: GPL2025 8 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE36nnn/GSE36320/
+Series		Accession: GSE36320	ID: 200036320
+
+140. red illumination w/o lincomycin
+(Submitter supplied) To identify putative regulatory elements enriched in the promoters of target genes of the PGE-dependent retrograde signaling pathway, we analyzed 500 bp regions of sequence upstream of genes whose expression was down-regulated by lincomycin. We treated dark-grown Arabidopsis seedlings with lincomycin, sampled them before or after a short illumination and examined the genomic response using Affymetrix ATH1 oligonucleotide microarrays. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL198 8 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE5nnn/GSE5759/
+Series		Accession: GSE5759	ID: 200005759
+
+141. red20micE_vs_white20micE
+(Submitter supplied) Series of 4 repetitions of hybridization of treatment (red20micE) and control (white20micE) each. Comparison of plants grown for 48 hours at 20µE red light versus plants exposed for 48 hours at 20µE to white light. E. Lopez, unpublished Keywords: repeat sample
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL513 8 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE1nnn/GSE1248/
+Series		Accession: GSE1248	ID: 200001248
+
+142. red200micE_vs_red20micE
+(Submitter supplied) Series of 4 repetitions of hybridization of treatment (red200micE) and control (red20micE) each. Comparison of plants grown for 48 hours at 200µE red light versus plants exposed for 48 hours at 20µE to red light. E. Lopez, unpublished Keywords: repeat sample
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL513 8 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE1nnn/GSE1246/
+Series		Accession: GSE1246	ID: 200001246
+
+143. Preventing light-induced toxicity in a new mouse model of sector retinitis pigmentosa caused by Rhodopsin M39R variant
+(Submitter supplied) Retinitis Pigmentosa (RP) is an inherited retinal dystrophy characterized by the progressive loss of rod photoreceptors. Sector RP is a form of RP, where degeneration originates in the inferior retina, mainly influenced by light exposure. Over 200 RHO variants are pathogenic and associated with autosomal dominant RP. RHOM39R is one of the most common RHO variants linked to sector RP in the UK. A knock-in (KI) mouse model expressing RhoM39R was generated and characterized to investigate the mechanisms of degeneration associated with this variant and explore novel therapeutic strategies for rhodopsin sector RP. more...
+Organism:	Mus musculus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL21103 7 Samples
+FTP download: GEO (CSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE304nnn/GSE304732/
+Series		Accession: GSE304732	ID: 200304732
+
+144. ELONGATED HYPOCOTYL 5 mediates blue light signalling to the Arabidopsis circadian clock
+(Submitter supplied) Circadian clocks are gene networks producing 24-h oscillations at the level of clock gene expression that is synchronized to environmental cycles via light signals.   The ELONGATED HYPOCOTYL 5 (HY5) transcription factor is a signalling hub acting downstream of several photoreceptors and is a key regulator of photomorphogenesis.   Here we describe a mechanism by which light quality could modulate the pace of the circadian clock through controlling abundance of HY5. more...
+Organism:	Arabidopsis thaliana
+Type:		Genome binding/occupancy profiling by high throughput sequencing
+Platform: GPL19580 7 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE117nnn/GSE117797/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA483201
+Series		Accession: GSE117797	ID: 200117797
+
+145. DGP1 family members mediate large-scale metabolic remodeling by integrating two environmental signals in rice
+(Submitter supplied) Low-phosphate (LP) and red-light (RL) remould cellular metabolism in rice (Oryza sativa). Herein, DEEP GREEN PANICLE1 (DGP1) family includes DGP1, DGP1B and DGP1C. LP treatment (10 µM KH2PO4) robustly upregulates DGP1 expression (>20-fold), RL treatment (50 µmol m-2 s-1) induces DGP1 (>80-fold) and DGP1B (>90-fold). The TIGR01589 domain of DGP1s targets cytosolic enzymes to mediate a process of nuclear translocation, including in glycolysis (PK1/4 and GAPC1/2/3), TCA cycle (PDC1, CS, SCSb, FH and MDH) and biosynthesis of non-aromatic amino acids (LeuC2, OCTase and P5CS). more...
+Organism:	Oryza sativa
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL13160 6 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE282nnn/GSE282620/
+Series		Accession: GSE282620	ID: 200282620
+
+146. Noncoding RNA HID1 promotes phyB-dependent seed germination by repressing the biosynthesis of ABA [ChIRP-seq]
+(Submitter supplied) Arabidopsis noncoding RNA HID1 acts as a positive regulator to promote phyB-mediated seed germination by modulating the biosynthesis of abscisic acid.
+Organism:	Arabidopsis thaliana
+Type:		Other
+Platform: GPL17639 6 Samples
+FTP download: GEO (BED, BW) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE195nnn/GSE195747/
+Series		Accession: GSE195747	ID: 200195747
+
+147. Effect of 630nm LED red light on rheumatoid arthritis
+(Submitter supplied) Photobiomodulation (PBM) is praised as a promising physical therapy, which has many advantages, such as noninvasive, painless. The 630nm LED-stimulated-MH7A cells were sequenced for analyzing the mechanism of PBM. As a result,1181 differentially expressed genes were identified.
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL16791 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE172nnn/GSE172223/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA722487
+Series		Accession: GSE172223	ID: 200172223
+
+148. Evidence of small interfering RNA in the fungus Fusarium fujikuroi (RNA-Seq)
+(Submitter supplied) RNA interference (RNAi) mechanisms play key regulatory roles in many biological systems, and components of the RNAi pathway are conserved in a wide range of eukaryotic genomes, including those of filamentous fungi. The biotechnological fungus Fusarium fujikuroi, widely used in secondary metabolism studies, contains the complete set of genes expected for RNAi pathways, including dcl1 and dcl2 dicer genes. more...
+Organism:	Fusarium fujikuroi
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL24816 6 Samples
+FTP download: GEO (CSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE253nnn/GSE253159/
+Series		Accession: GSE253159	ID: 200253159
+
+149. Biofilm Heterogeneity-Adaptive Photoredox Catalysis Enables Red Light-Triggered Nitric Oxide Release for Combating Drug-Resistant Infections
+(Submitter supplied) The formation of biofilms is closely associated with persistent and chronic infections, and physiological heterogeneity such as pH and oxygen gradients renders biofilms highly resistant to conventional antibiotics. To date, effectively treating biofilm infections remains a significant challenge. Herein, we report the fabrication of micellar nanoparticles adapted to heterogeneous biofilm microenvironments, enabling nitric oxide (NO) release through two distinct photoredox catalysis mechanisms. more...
+Organism:	Bacteria
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL32770 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE246nnn/GSE246965/
+Series		Accession: GSE246965	ID: 200246965
+
+150. Alkaline phosphatase-controllable and red light-activated RNA modification
+(Submitter supplied) To exploit the therapeutic mechanism of our proposed alkaline phosphatase-controllable and red light-activated RNA modification approach at the genetic level, we established an RNA-modified group (f-RCP+660 nm) and non-RNA-modified group (RCP+660 nm) in HepG2 cells.
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL16791 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE217nnn/GSE217510/
+Series		Accession: GSE217510	ID: 200217510
+
+151. Transcriptomic analysis of B-box containing protein (BBX4)-regulated genes in response to light
+(Submitter supplied) Global analysis of  genes regulated by BBX4 in response to light in Arabidopsis
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL13222 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE132nnn/GSE132980/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA549614
+Series		Accession: GSE132980	ID: 200132980
+
+152. A partially sex-reversed giant kelp sheds light into the mechanisms of sexual differentiation in UV sexual system
+(Submitter supplied) In UV sexual systems, sex is determined during the haploid phase of the life cycle and males have a V chromosome whereas females have a U chromosome. Previous work in the model Ectocarpus revealed that the V chromosome has a dominant role in male sex determination and the female developmental program being a ‘default’ program, triggered in the absence of the male master sex determination gene(s). Here, we describe the identification of a genetically male giant kelp strain presenting phenotypic features typical of a female, despite lacking the U-specific region. more...
+Organism:	Macrocystis pyrifera
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL29648 6 Samples
+FTP download: GEO (CSV, TAB) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE165nnn/GSE165423/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA694578
+Series		Accession: GSE165423	ID: 200165423
+
+153. Transcriptomic measurements of Nannochloropsis oceanica CCMP1779 after pulses of blue or red light
+(Submitter supplied) We investigated light dependent gene expression changes in the marine ochrophyte Nannochloropsis oceanica CCMP1779. These algae have several putative blue light photoreceptors but appear to lack red light photoreceptors. To study early light signaling in N. oceanica and avoid as much as possible secondary downstream events, we quantified gene expression changes in dark-adapted cells after a short blue or red light pulse. more...
+Organism:	Nannochloropsis oceanica
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL20272 6 Samples
+FTP download: GEO (CSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE164nnn/GSE164714/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA691620
+Series		Accession: GSE164714	ID: 200164714
+
+154. Transcriptome analysis of the effect of far-red light on hypocotyl elongation of pumpkin
+(Submitter supplied) The mechanism of hypocotyl elongation in pumpkin mediate by end of day far red  was analyzed by transcriptome analysis
+Organism:	Cucurbita moschata
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL30054 6 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE173nnn/GSE173421/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA725489
+Series		Accession: GSE173421	ID: 200173421
+
+155. Genome-wide identification and analysis of circular RNAs in the pineal in rats between day and night
+(Submitter supplied) Circular RNAs (circRNAs) are a new class of RNAs with covalently closed circular structures that are involved in many biological processes. However, information about circRNAs in the pineal gland is limited, especially in rats. In this study, 331 circRNAs were identified by the Illumina platform as being expressed in the pineal glands of rats during the night and day. Forty circRNAs with differential expression were found. more...
+Organism:	Rattus norvegicus
+Type:		Non-coding RNA profiling by high throughput sequencing
+Platform: GPL25947 6 Samples
+FTP download: GEO (BED, FA, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE146nnn/GSE146193/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA600669
+Series		Accession: GSE146193	ID: 200146193
+
+156. Circadian analysis of the mouse retinal pigment epithelium transcriptome
+(Submitter supplied) Purpose: The presence of a phagocytic peak of photoreceptor outer segments by the retinal pigment epithelium (RPE) one or  two hours after the onset of light has been reported for several diurnal and nocturnal species. This peak in phagocytic  activity also persists under constant lighting conditions (i.e., constant light or dark) thus demonstrating that the timing  of this peak is driven by a circadian clock. more...
+Organism:	Mus musculus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL21103 6 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE143nnn/GSE143396/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA600281
+Series		Accession: GSE143396	ID: 200143396
+
+157. Transcriptional characterization of Arabidopsis thaliana seeds treated with a red- or far red-light pulse
+(Submitter supplied) The goal of this study was to compare the transcriptional profile (RNA-seq) of imbibed Arabidopsis thaliana Columbia-0 ecotype seeds that were treated with a 20 min red or far red pulse. The red-light pulse induces germination.
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL19080 6 Samples
+FTP download: GEO (TAB) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE134nnn/GSE134019/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA553510
+Series		Accession: GSE134019	ID: 200134019
+
+158. Gene expression in the rcb (regulator for chloroplast biogenesis) mutant in red light conditions
+(Submitter supplied) The regulator for chloroplast biogenesis (rcb) mutant was identified as a mutant defective in phytochrome-mediated chloroplast biogenesis. The rcb mutant has long hypocotyl and albino phenotypes. RCB initiates chloroplast biogenesis in the nucleus by promoting the degradation of the master repressors for chloroplast biogenesis, the PIFs (Phytochrome Interacting Factors). To understand how RCB regulates the expression of PIF-regulated genes, we performed genome-wide expression analysis of RCB-dependent genes using a rcb-10 null allele.
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL198 6 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE122nnn/GSE122351/
+Series		Accession: GSE122351	ID: 200122351
+
+159. Coordinated regulation of Arabidopsis microRNA biogenesis and red light signaling through Dicer-like 1 and phytochrome-interacting factor 4
+(Submitter supplied) Light and microRNAs (miRNAs) are key external and internal signals for plant development respectively. However the relationship between light signaling and miRNA biogenesis pathways remains unknown. Here we found that miRNA processer DCL1/HYL1 interacts with a basic helix–loop–helix (bHLH) transcription factor, phytochrome-interacting factor 4 (PIF4), which mediates the destabilization of DCL1 during dark-red light transition. more...
+Organism:	Arabidopsis thaliana
+Type:		Non-coding RNA profiling by high throughput sequencing
+Platform: GPL13222 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE109nnn/GSE109038/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA429462
+Series		Accession: GSE109038	ID: 200109038
+
+160. Next Generation Sequencing Facilitates Quantitative Analysis of  nf-ycQ in Arabidopsis thaliana seedlings Transcriptomes
+(Submitter supplied) We generated 18 Gb of high-quality sequencing data (~3 Gb per sample) and catalogued the expression profiles of 27,416 annotated Arabidopsis thaliana genes in each sample. The analysis showed differences of transcriptomes between wild-type Col and Nuclear Factor Y (NF-Y) C1,3,4,9 loss of function mutant nf-yc quadruple (nf-ycQ) seedlings treated with 2 days red light. We identified numerous differentially expressed genes that exhibited distinct expression patterns. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL13222 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE89nnn/GSE89850/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA353593
+Series		Accession: GSE89850	ID: 200089850
+
+161. Diatom phytochromes reveal the existence of far-red light based sensing in the ocean 
+(Submitter supplied) The absorption of visible light in aquatic environments has led to the common assumption that aquatic organisms sense and adapt to penetrative blue/green light wavelengths, but show little or no response to the more attenuated red/far-red wavelengths. Here we show that two marine diatom species, Phaeodactylum tricornutum and Thalassiosira pseudonana, possess a bona fide red/far-red light sensing phytochrome (DPH) that uses biliverdin as a chromophore and displays accentuated red-shifted absorbance peaks compared to other characterized plant and algal phytochromes. more...
+Organism:	Phaeodactylum tricornutum
+Type:		Expression profiling by array
+Platform: GPL21013 6 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE73nnn/GSE73915/
+Series		Accession: GSE73915	ID: 200073915
+
+162. Pyronema confluens circadian rhythm analysis
+(Submitter supplied) The aim of this analysis was the identification of candidate genes that might be regulated in a circadian manner in the filamentous ascomycete Pyronema confluens. The fungus was grown in submerged culture to promote vegetative growth, and after a period in constant light, the samples were shifted to darkness (DD). Cultures were sampled after 24 and 36 hours in DD. The samples were used for RNA-seq analysis, and candidate genes with significantly higher expression after 24 vs. more...
+Organism:	Pyronema omphalodes CBS 100304
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL19175 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE61nnn/GSE61263/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA260620
+Series		Accession: GSE61263	ID: 200061263
+
+163. RNA Sequencing analysis of Wild Type and HID1 mutant Transcriptomes
+(Submitter supplied) Seedling photomorphogenesis is a sophisticated developmental process that is controlled by both the transcriptional and posttranscriptional regulation of gene expression. Here, we identify an Arabidopsis noncoding RNA, designated HIDDEN TREASURE 1 (HID1), as a new factor promoting photomorphogenesisin continuous red light (cR). We show that HID1 acts through PHYTOCHROME-INTERACTING FACTOR 3 (PIF3), a bHLH transcription factor known to be a key repressor of photomorphogenesis.
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL13222 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE57nnn/GSE57806/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA248132
+Series		Accession: GSE57806	ID: 200057806
+
+164. Control of shoot branching by Light quality in Arabidopsis plants (wt and brc1-2)
+(Submitter supplied) Plant architecture greatly depends on its branching patterns. Branches are formed from meristems initiated in the axils of leaves. Axillary meristems may develop immediately giving new shoots or they may become arrested after a short period of growth as dormant axillary buds. This decision is affected by endogenous and environmental factors. We are studying two Arabidopsis genes coding for TCP transcription factors, BRANCHED1 (BRC1) and BRANCHED2 (BRC2) that control this key decision. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL3513 6 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE23nnn/GSE23407/
+Series		Accession: GSE23407	ID: 200023407
+
+165. Arabidopsis phytochrome A directly targets numerous promoters for individualized modulation of genes in wide range of pathways [RNA-seq]
+(Submitter supplied) The far-red light (FR) photoreceptor phytochrome A (phyA) contains no DNA binding domain but associates with CHS promoter through its chaperon FHY1 and transcription factors to regulate transcription. Here, we performed a genome-wide identification of phyA targets using a combination of phyA ChIP- and RNA-sequencing methods. Our results indicate that the phyA signaling widely impact gene promoters involved in multiple FR-modulated aspects of plant growth. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL13222 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE48nnn/GSE48767/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA211593
+Series		Accession: GSE48767	ID: 200048767
+
+166. Light-regulated genes in Cryptococcus neoformans
+(Submitter supplied) Light is a universal environmental signal perceived by many organisms, including the fungi in which light regulates both common and unique biological processes depending on the species. We conducted a whole-genome microarray analysis on the basidiomycete fungus Cryptococcus neoformans to identify light-regulated genes.
+Organism:	Cryptococcus deneoformans; Cryptococcus deneoformans JEC21
+Type:		Expression profiling by array
+Platform: GPL8638 6 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE21nnn/GSE21484/
+Series		Accession: GSE21484	ID: 200021484
+
+167. Arabidopsis gene expression profile : Col-0 wild-type vs. pif3pif4pil5pil6 (pifQ) mutant
+(Submitter supplied) Transcriptional profiling of 60h-old Arabidopsis whole seedlings comparing control Col-0 wild-type plants with pifQ mutant plants The expression profile of dark-grown pifQ mutant shows similar pattern of Rc-grown Col-0 wild-type  Keywords: Genetic modification
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL6177 6 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE14nnn/GSE14492/
+Series		Accession: GSE14492	ID: 200014492
+
+168. Expression data from mouse SCN after 30-min light pulse
+(Submitter supplied) The transmission of information about the photic environment to the circadian clock involves a complex array of neurotransmitters, receptors, and second messenger systems.  Using laser capture microscopy and microarray analysis, a population of genes rapidly induced by light in the suprachiasmatic nucleus is identified. Keywords: comparative expression analysis
+Organism:	Mus musculus
+Type:		Expression profiling by array
+Dataset: GDS3107 Platform: GPL8321 6 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE6nnn/GSE6904/
+Series		Accession: GSE6904	ID: 200006904
+
+169. LightResponse
+(Submitter supplied) The influence of light on living organisms is critical, not only because of its importance as the main source of energy for the biosphere, but also due to its capacity to induce changes in the behaviour and morphology of nearly all forms of life. The common soil fungus Trichoderma atroviride responds to blue-light in a synchronized manner, in time and space, by forming a ring of green conidia at what had been the colony perimeter at the time of exposure (photoconidiation). more...
+Organism:	Trichoderma atroviride
+Type:		Expression profiling by array
+Platform: GPL4189 6 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE5nnn/GSE5578/
+Series		Accession: GSE5578	ID: 200005578
+
+170. Expression data from 7 day old Arabidopsis roots with 1h  Red light or dark
+(Submitter supplied) Red light can affect a variety of responses in Arabidopsis.  We characterize the early gene expression patterns of roots exposed to 1 hour of red light.  Early genes indicate elements involved in photomorphogenesis, chloroplast development, PAL pathways, root hair development are regulated by 1 hour of red light We used microarrays to detail the gene expression underlying the effects of red light on roots. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Dataset: GDS2260 Platform: GPL198 6 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE4nnn/GSE4933/
+Series		Accession: GSE4933	ID: 200004933
+
+171. The effects of RED GREEN and BLUE LED light on both human diabetic fibroblast cell lines
+(Submitter supplied) The purpose of this study is to investigate whether LED light at different wavelength can improve wound healing in both diabetic fibroblast. In this study, both diabetic and normal fibroblast cell lines were cultured and created some artificial wounds with pipette tips. After LED irradiation and microarray analysis, we found that GPCR Class A, a rhodopsin-like-structure gene, was significantly up regulated in all treated groups. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL17077 5 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE78nnn/GSE78017/
+Series		Accession: GSE78017	ID: 200078017
+
+172. Synergistic Effects of Red Light and Direct Current Electric Fields on Neurite Growth in 3D Neural Cell Cultures
+(Submitter supplied) Both red-light illumination and direct-current electric fields (dcEFs) have independently been shown to promote neurite outgrowth in two-dimensional (2D) neural cell cultures. However, their combined effects in a three-dimensional (3D) culture environment remain unexplored. In this study, we examined the synergistic effects of red light and dcEFs on neurite extension in human neuroblastoma (SH-SY5Y) and mouse neuroblastoma (N2a) cells embedded within a 3D collagen gel matrix. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL34284 4 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE303nnn/GSE303050/
+Series		Accession: GSE303050	ID: 200303050
+
+173. Fear extinction is regulated by the activity of long noncoding RNAs at the synapse
+(Submitter supplied) Long noncoding RNAs (lncRNAs) represent a multidimensional class of regulatory molecules involved in many aspects of brain function. Emerging evidence indicates that lncRNAs are expressed at the synapse; however, a direct role for their activity in this subcellular compartment in memory formation has yet to be demonstrated. Using lncRNA capture-seq on synaptosomes, we identified a significant number of lncRNAs that accumulate at synapses within the infralimbic prefrontal cortex of adult male C57/Bl6 mice. more...
+Organism:	Mus musculus
+Type:		Non-coding RNA profiling by high throughput sequencing
+Platform: GPL21103 4 Samples
+FTP download: GEO (BW) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE207nnn/GSE207149/
+Series		Accession: GSE207149	ID: 200207149
+
+174. Transcriptional profiles of cone cells, rod cells, and pineal photoreceptor cells in zebrafish
+(Submitter supplied) For isolation of rod, cone, and pineal photoreceptor cells, we used the transgenic zebrafish lines, Tg(rho:egfp)ja2Tg, Tg(gnat2:egfp)ja23Tg, and Tg(exorh:EGFP)ja1Tg, which express EGFP in rods, all cone subtypes, and pineal rod cells, respectively. Retinas were dissected from dark-adapted adult fish under dim red light. The isolated retinas were digested with trypsin in Ca2+-free Ringer’s solution. The reaction was terminated by adding soybean trypsin inhibitor and fetal bovine serum. The dissociated EGFP-positive cells were isolated with a fluorescence activating cell sorter (FACSAria, BD Biosciences) by the following three parameters: forward scatter, side scatter and green fluorescence. Goal was to determine differentially expressed genes among three types of photoreceptor cells.
+Organism:	Danio rerio
+Type:		Expression profiling by array
+Platform: GPL6457 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE168nnn/GSE168749/
+Series		Accession: GSE168749	ID: 200168749
+
+175. Analyses of phyB-regulated genes by RNA-seq
+(Submitter supplied) The phytochrome family consists of five numbers (phyA-phyE) in Arabidopsis, of which phyB is the best characterized and shown to play a major role in mediating red light inhibition of hypocotyl elongation. In order to reveal the molecular basis for phyB-mediated red light signaling to promote photomorphogenesis, we analyzed the gene expression profile of red light-grown WT and phyB mutant seedlings by high throughput sequencing.
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL17639 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE101nnn/GSE101875/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA395761
+Series		Accession: GSE101875	ID: 200101875
+
+176. Analyses of red light-regulated genes by RNA-seq
+(Submitter supplied) Light, as both energy source and informational signal, profoundly influences plant growth and development during the whole life span from seed germination to flowering. To dissect the role for red light signaling in regulate the seedling development, we analyzed the gene expression profile of red light- and dark-grown WT seedlings by high throughput sequencing.
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL17639 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE101nnn/GSE101873/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA395762
+Series		Accession: GSE101873	ID: 200101873
+
+177. Blue light exposure and nutrient conditions influence the expression of genes involved in simultaneous hyphal knot formation in Coprinopsis cinerea.
+(Submitter supplied) To identify genes express in earliest stage of fruiting body initiation in Coprinopsis cinerea, strain #326 (AmutBmut haploid fruiting strain), genes expressed at 0, 0.5, 1, 3h after light exposure were compared by Super-SAGE Approximately, 1 million tags were sequenced from each mycelial sample to obtain 65,535 unique tags. First, we made matches between the tags and predicted genes of the WT strain, and 24.4% tags matched to predicted genes. more...
+Organism:	Coprinopsis cinerea
+Type:		Expression profiling by SAGE
+Platform: GPL23540 4 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE99nnn/GSE99617/
+Series		Accession: GSE99617	ID: 200099617
+
+178. Integrated RNA-seq and sRNA-seq analysis reveals miRNA effects on secondary metabolism in Solanum tuberosum L [RNA-seq]
+(Submitter supplied) Light is a major environmental factor that affects metabolic pathways and stimulates the production of secondary metabolites in potato. However, adaptive changes in potato metabolic pathways and physiological functions triggered by light are partly explained by gene expression changes. Regulation of secondary metabolic pathways in potato has been extensively studied at transcriptional level, but little is known about the mechanisms of post-transcriptional regulation by miRNAs. more...
+Organism:	Solanum tuberosum
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL16436 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE79nnn/GSE79985/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA317569
+Series		Accession: GSE79985	ID: 200079985
+
+179. Integrated RNA-seq and sRNA-seq analysis reveals miRNA effects on secondary metabolism in Solanum tuberosum L [miRNA-seq]
+(Submitter supplied) Light is a major environmental factor that affects metabolic pathways and stimulates the production of secondary metabolites in potato. However, adaptive changes in potato metabolic pathways and physiological functions triggered by light are partly explained by gene expression changes. Regulation of secondary metabolic pathways in potato has been extensively studied at transcriptional level, but little is known about the mechanisms of post-transcriptional regulation by miRNAs. more...
+Organism:	Solanum tuberosum
+Type:		Non-coding RNA profiling by high throughput sequencing
+Platform: GPL16436 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE79nnn/GSE79984/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA317570
+Series		Accession: GSE79984	ID: 200079984
+
+180. RNA-seq analysis of the transcriptional response to blue and red light in the extremophilic red alga, Cyanidioschyzon merolae
+(Submitter supplied) Light is one of the main environmental cues that affects the physiology and behavior of many organisms. The effect of light on genome-wide transcriptional regulation has been well-studied in green algae and plants, but not in red algae. Cyanidioschyzon merolae is used as a model red algae, and is suitable for studies on transcriptomics because of its compact genome with a relatively small number of genes. more...
+Organism:	Cyanidioschyzon merolae strain 10D
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL19949 4 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE67nnn/GSE67303/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA279462
+Series		Accession: GSE67303	ID: 200067303
+
+181. The effects of RED GREEN and BLUE LED light on human normal healthy fibroblast cell lines
+(Submitter supplied) The purpose of this study is to investigate whether LED light at different wavelength can improve wound healing in normal fibroblast. In this study, both diabetic and normal fibroblast cell lines were cultured and created some artificial wounds with pipette tips. After LED irradiation and microarray analysis, we found that GPCR Class A, a rhodopsin-like-structure gene, was significantly up regulated in all treated groups. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL17077 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE78nnn/GSE78018/
+Series		Accession: GSE78018	ID: 200078018
+
+182. Gene expression patterns induced by a transient switch-on of ROS production in mouse skin
+(Submitter supplied) Gene expression signatures induced by transient ROS production were characterized in both mouse back skin and tail epidermis samples. A transient in situ ROS production in the tissue was activated by an adapted photodynamic treatment, using methyl aminolevulinate as a metabolic precursor of endogenous Protoporphyrin IX.
+Organism:	Mus musculus
+Type:		Expression profiling by array
+Platform: GPL7202 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE55nnn/GSE55135/
+Series		Accession: GSE55135	ID: 200055135
+
+183. Thalamus and hypothalamus response to visual input deprivation
+(Submitter supplied) Analysis of thalamus and hypothalamus under conditions of visual deprivation by dark-rearing (DR). Animals subjected to DR from birth till postnatal day (P) 14. Results provide insight into the role of visual inputs in the regulation of gene expression in thalamus and hypothalamus during development.
+Organism:	Mus musculus
+Type:		Expression profiling by array
+Platform: GPL7202 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE53nnn/GSE53136/
+Series		Accession: GSE53136	ID: 200053136
+
+184. The Arabidopsis Zinc Finger Protein 3 integrates ABA and light signaling in seed germination and plant development
+(Submitter supplied) ZFP3, a nuclear C2H2 zinc finger protein acts as a negative regulator of ABA- suppressed germination. Regulated over-expression of ZFP3 and closely related ZFP1, ZFP4, ZFP6 and ZFP7 confers ABA insensitivity to seed germination while the zfp3,zfp4 double mutant displays enhanced ABA susceptibility. Reduced expression of a large set of ABA-induced genes such as RAB18 and transcription factors ABI3, ABI4, ABI5 and RGL2 in ZFP3ox seedling suggests that ZFP3 indeed negatively regulates ABA signaling. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL16033 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE48nnn/GSE48661/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA210964
+Series		Accession: GSE48661	ID: 200048661
+
+185. mRNA-seq of Physcomitrella protonema responding to 1 hr red light in wild type and the phytochrome-deficient mutant
+(Submitter supplied) The red/far-red light photoreceptor phytochrome mediates photomorphological responses in plants. For light sensing and signaling, phytochromes need to associate with open-chain tetrapyrrole molecules as the chromophore. Biosynthesis of tetrapyrrole chromophores requires members of ferredoxin-dependent bilin reductases (FDBRs). There are two FDBRs in Physcomitrella patens, HY2 and PUBS. Knocking out both generates the phytochrome-deficient mutant. more...
+Organism:	Physcomitrium patens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL15302 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE36nnn/GSE36274/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA153109
+Series		Accession: GSE36274	ID: 200036274
+
+186. comparison ws vs crb (cul3a)-Study of the function of SCF complexes in Arabidopsis.
+(Submitter supplied) af01_cul3a2_cul3b - comparison ws vs crb (cul3a) - Cullin proteins belong to a multigene family that includes at least three members in budding yeast, six in human, five in C. elegans and five in Arabidopsis thaliana. All cullins analyzed so far directly interact with RBX1/HRT1/ROC1, a RING finger protein, thereby forming the core module of different ubiquitin ligase complexes, which specifically recruit substrate proteins for ubiquitylation and subsequent degradation by the proteasome. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL5337 4 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE7nnn/GSE7974/
+Series		Accession: GSE7974	ID: 200007974
+
+187. comparison col0 vs 003d-Study of the function of SCF complexes in Arabidopsis.
+(Submitter supplied) af01_cul3a2_cul3b - comparison col0 vs 003d - Cullin proteins belong to a multigene family that includes at least three members in budding yeast, six in human, five in C. elegans and five in Arabidopsis thaliana. All cullins analyzed so far directly interact with RBX1/HRT1/ROC1, a RING finger protein, thereby forming the core module of different ubiquitin ligase complexes, which specifically recruit substrate proteins for ubiquitylation and subsequent degradation by the proteasome. more...
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL5337 4 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE7nnn/GSE7972/
+Series		Accession: GSE7972	ID: 200007972
+
+188. Transcriptomic response to Keap1-specific electrophile modification in zebrafish embryos
+(Submitter supplied) Using our eletrophile delivery platform in zebrafish embryos (termed "Z-REX"), we launched a Z-REX-coupled RNA-seq screen to identify genes whose expression is significantly changed following Keap1-engagement with selective native lipid-derived electrophiles housing covalently-reactive motifs. The electrophiles tested were 4-hydroxynonenal (HNE) and 4-hydroxydodecenal (HDE).
+Organism:	Danio rerio
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL20828 3 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE135nnn/GSE135190/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA557695
+Series		Accession: GSE135190	ID: 200135190
+
+189. RNA-seq characterization of Physarum macroplasmodia
+(Submitter supplied) We report a novel approach for studying the transcriptomic changes during cell differentiation, using Physarum as a model
+Organism:	Badhamia polycephala
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL14902 3 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE33nnn/GSE33793/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA148107
+Series		Accession: GSE33793	ID: 200033793
+
+190. Genome-wide direct targets of PIL5 (ChIP-chip analysis of PIL5)
+(Submitter supplied) PIL5 is a key negative regulator of phytochrome mediated seed germination and PIL5 protein is degraded by red light irradiation through phytochrome. The ChIP-chip analysis aimed to find various PIL5 direct targets in the Arabidopsis genome.
+Organism:	Arabidopsis thaliana
+Type:		Genome binding/occupancy profiling by genome tiling array
+Platform: GPL8080 3 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE14nnn/GSE14450/
+Series		Accession: GSE14450	ID: 200014450
+
+191. RNA-seq of aging mouse skin treated with red light, compared to untreated controls
+(Submitter supplied) Using an aging mouse model (C57BL/6, 18-20 months), we applied red light irradiation (8 J/cm², once daily for 28 consecutive days) to investigate its potential in alleviating skin degeneration. Gene expression changes were analyzed by sequencing, comparing the light-exposed and control groups, and the involved regulatory signaling pathways were further explored.
+Organism:	Mus musculus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL24247 2 Samples
+FTP download: GEO (XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE290nnn/GSE290637/
+Series		Accession: GSE290637	ID: 200290637
+
+192. Single-nuclei sequencing of Parvalbumin interneurons in mouse visual cortex after optoTrkB activation
+(Submitter supplied) After deep anesthesia by pentobarbital, the mice were perfused with ice-cold NMDG ACSF, and the brains were isolated and sliced by vibratome in NMDG ACSF. Then the slices were exposed by LED blue light, and incubated in a modified HEPES aCSF for one hour. The visual cortex was Isolated from the slices under microscope with red light, and tissues were homogenized, and nuclei were extracted. All procedures were performed with RNase free in the dark condition. more...
+Organism:	Mus musculus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL24247 2 Samples
+FTP download: GEO (H5) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE142nnn/GSE142797/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA598356
+Series		Accession: GSE142797	ID: 200142797
+
+193. Immunotherapy against amyloid beta is modulated by meningeal lymphatic function II
+(Submitter supplied) A growing body of evidence points to passive immunotherapy as a promising therapeutic strategy against AD. Herein, we show that meningeal lymphatic vasculature becomes dysfunctional in AD transgenic mice and that manipulating meningeal lymphatic drainage affects the outcome of anti-Aβ immunotherapy.
+Organism:	Mus musculus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL19057 2 Samples
+FTP download: GEO (CSV, MTX, TSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE141nnn/GSE141872/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA594991
+Series		Accession: GSE141872	ID: 200141872
+
+194. The novel heme-dependent inducible protein, SRRD regulates heme biosynthesis and circadian rhythms
+(Submitter supplied) In order to investigate the function of heme in the regulation of gene expression, we herein examined variations in mRNA levels in ALA-treated cells from control conditions. A comprehensive anal- ysis by RNA sequencing showed marked changes in the expression of various genes. Among the different amounts of mRNA, we identified the novel heme-inducible protein, SRRD. The plant ho- mologue Sensitivity to Red Light Reduced (SRR1) was previously reported to be involved in the regulation of the circadian clock and phytochrome B signaling in Arabidopsis thaliana. more...
+Organism:	Mus musculus
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL11002 2 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE98nnn/GSE98158/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA384175
+Series		Accession: GSE98158	ID: 200098158
+
+195. Expression data from 1h red light versus dark 7-day-old Arabidopsis whole seedlings
+(Submitter supplied) Red light can affect a variety of responses in Arabidopsis.  We characterize the early gene expression patterns of seedlings exposed to 1 hour of red light using a small sized sample of 5, 7-day-old seedlings and also performed dark controls. Methods that were developed for tissue extraction and labeling for microarrays were tested using these samples  Keywords: 1 time point
+Organism:	Arabidopsis thaliana
+Type:		Expression profiling by array
+Platform: GPL198 2 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE13nnn/GSE13383/
+Series		Accession: GSE13383	ID: 200013383
+
+196. Root growth in Orchid Dendrobium cv. Sonia requires shade avoidance response of PHYB along with regulation of auxin pathway genes
+(Submitter supplied) Orchid Dendrobium Sonia (Sonia) has wide demand in floral market throughout the world due to its vibrant coloured flowers, flowering recurrence and dense inflorescence. Effects of different monochromatic light qualities (red, far-red, blue, white) on different developmental and growth responses such as seed gemination, shoot and root growth, chlorophyll and carotenoid accumulation were studied in Sonia. more...
+Organism:	Dendrobium hybrid cultivar
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL34042 1 Sample
+FTP download: GEO (FASTA, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE252nnn/GSE252123/
+Series		Accession: GSE252123	ID: 200252123

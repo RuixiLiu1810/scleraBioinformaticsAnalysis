@@ -1,4 +1,4 @@
-from Scripts.GEO_fetch import GEOFetcher, GEOConfig
+from GEO_fetch import GEOFetcher, GEOConfig
 
 config = GEOConfig(
     query='"myopia"[All Fields] AND ("red light" OR photobiomodulation)',
