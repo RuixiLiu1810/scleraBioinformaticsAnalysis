@@ -485,20 +485,22 @@ library(ggplot2)
 library(tidyr)
 
 DEG <- read.table("DEG2.txt",sep = "\t",check.names = F, stringsAsFactors = F,header = T,row.names = 1)
+DEG <- mutate(DEG,Gene_symbol=rownames(DEG))
+
 KEGG_res <- read.table("KEGG_res.txt", sep = "\t",header = TRUE, stringsAsFactors = FALSE)
-KEGG <- setReadable(KEGG, OrgDb = org.Mm.eg.db, keyType = "ENTREZID") 
-KEGG_res <- KEGG@result
-kegg_list <- strsplit(KEGG_res$geneID, "/")
+#KEGG <- setReadable(KEGG, OrgDb = org.Mm.eg.db, keyType = "ENTREZID") 
+#KEGG_res <- KEGG@result
+kegg_select <- KEGG_res[KEGG_res$Description %in% c("AMPK signaling pathway","Oxidative phosphorylation"),]
+kegg_list <- strsplit(kegg_select$geneID, "/")
 
 ## 构建 Term-Gene
-top_n <- 10
-top_n <- min(top_n, nrow(KEGG))
+n <- nrow(kegg_select)
 
 a11 <- do.call(
   rbind,
-  lapply(seq_len(top_n), function(i) {
+  lapply(seq_len(n), function(i) {
     data.frame(
-      Term  = KEGG$Description[i],
+      Term  = kegg_select$Description[i],
       gene  = kegg_list[[i]],
       stringsAsFactors = FALSE
     )
@@ -513,10 +515,10 @@ a12 <- a12[, -1, drop = FALSE]
 ## 取交集并按 logFC 排序
 id <- intersect(rownames(a12), DEG$Gene_symbol)
 DEG2 <- DEG[id, , drop = FALSE]
-DEG2 <- DEG2[order(DEG2$logFC, decreasing = TRUE), , drop = FALSE]
+DEG2 <- DEG2[order(DEG2$log2FoldChange, decreasing = TRUE), , drop = FALSE]
 
 a12 <- a12[rownames(DEG2), , drop = FALSE]
-a12$logFC <- DEG2$logFC
+a12$logFC <- DEG2$log2FoldChange
 
 ##绘制弦图
 GOChord(
@@ -529,6 +531,8 @@ GOChord(
   process.label= 8        # term 字体大小
 )
 
+
+
 #五、GSEA富集分析####
 # https://www.gsea-msigdb.org/gsea/msigdb/index.jsp
 
@@ -536,7 +540,7 @@ GOChord(
 rm(list = ls())
 library(tidyverse)
 library(limma)
-setwd('E:/scleraBioinformaticsAnalysis/Datasets/3_Myopia_Tissues/High/GSE200053')#设置工作路径
+setwd('E:/scleraBioinformaticsAnalysis/Datasets/3_Myopia_Tissues/High/GSE280609')#设置工作路径
 load('GSE299988.rda')
 str(exp)
 exp <- exp %>% mutate(across(everything(), as.numeric))
@@ -545,7 +549,7 @@ str(exp)
 identical(rownames(rt),colnames(exp))
 
 #组间差异分析
-group_list <-factor(rt$group,levels = c("Normal","Tumor"))
+group_list <-factor(rt$group,levels = c("control","myopia"))
 group_list
 design <- model.matrix(~group_list)
 #比较矩阵命名
@@ -565,6 +569,8 @@ library(org.Hs.eg.db)
 # genelist <- bitr(DEG$Gene, fromType="SYMBOL",
 #                  toType="ENTREZID", OrgDb='org.Hs.eg.db')
 # DEG <- inner_join(DEG,genelist,by=c("Gene"="SYMBOL"))
+# 去重
+# geneList <- geneList[!duplicated(names(geneList))]
 geneList <- DEG[,'logFC']
 names(geneList) <- as.character(DEG[,'Gene'])
 #排序:
@@ -572,17 +578,17 @@ geneList <- sort(geneList, decreasing= TRUE)
 geneList
 
 #读取gmt文件
-gmt <- read.gmt('mh.all.v2026.1.Mm.symbols.gmt')
+gmt <- read.gmt('h.all.v2026.1.Hs.symbols.gmt')
 GSEA <- GSEA(geneList,
              TERM2GENE = gmt,
              pvalueCutoff = 0.05,
              pAdjustMethod = "BH",
-             minGSSize = 5,
+             minGSSize = 20,
              maxGSSize = 500)
 res <- GSEA@result
 write.csv(res,file = 'H_GSEA.csv')
-p <- gseaplot2(GSEA,geneSetID = 'HALLMARK_ALLOGRAFT_REJECTION',
-               title = 'HALLMARK_ALLOGRAFT_REJECTION',color ="red")
+p <- gseaplot2(GSEA,geneSetID = 'HALLMARK_OXIDATIVE_PHOSPHORYLATION',
+               title = 'OXIDATIVE_PHOSPHORYLATION',color ="red")
 p
 p1<- gseaplot2(GSEA,geneSetID = 1:3) #geneSetID可以选择多个
 p1
@@ -591,7 +597,7 @@ p1
 rm(list = ls())
 library(tidyverse)
 library(limma)
-setwd('E:/scleraBioinformaticsAnalysis/Datasets/3_Myopia_Tissues/High/GSE200053')#设置工作路径
+setwd('E:/scleraBioinformaticsAnalysis/Datasets/3_Myopia_Tissues/High/GSE280609')#设置工作路径
 load('GSE299988.rda')
 str(exp)
 exp <- exp %>% mutate(across(everything(), as.numeric))
@@ -646,7 +652,25 @@ p
 p1<- gseaplot2(GSEA,geneSetID = 1:3) #
 p1
 
+#十五、GSVA分析####
+rm(list=l())
+library(tidyverse)
+library(clusterProfiler)
+setwd('E:/scleraBioinformaticsAnalysis/Datasets/3_Myopia_Tissues/High/GSE280609')#设置工作路径
+load('GSE84844.rda')
+gmt <- read.gmt('h.all.v2026.1.Hs.symbols.gmt')
+geneset <- split(gmt$gene,gmt$term)
 
+#1.GSVA分析####
+library(GSVA)
+gsvaParam <- gsvaParam(as.matrix(exp),geneset,kcdf = "Gaussian", #count <- Poisson, normalized <- Gaussian
+                       minSize = 3)
+gsva <- gsva(gsvaParam)
+
+#2.1 GSVA热图####
+library(pheatmap)
+# rownames (gsva) <- substr(rownames (gsva),10,nchar(rownames (gsva)))
+identical(rownames(rt),colnames(gsva))
 
 
 #四、故障排查####
