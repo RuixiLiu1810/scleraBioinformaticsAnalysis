@@ -378,17 +378,17 @@ load('exp_combat.rad')
 
 #六、GEO高通量测序数据整理####
 rm(list=ls())
-setwd('E:/R_do/阿伦生信教学代码/GEO/GEO高通量测序/') #设置工作路径
+setwd('E:/scleraBioinformaticsAnalysis/Datasets/3_Myopia_Tissues/High/GSE200051') #设置工作路径
 library(tidyverse)
-exp <- data.table::fread("GSE280609_sclerarna_count.csv", header = T)
+exp <- data.table::fread("GSE200051_mRNA_retina_normalized_counts.txt", header = T)
 table(is.na(exp)) #查看是否有缺失值na
 exp[is.na(exp)] <- 0
 table(is.na(exp)) #查看是否有缺失值na
-exp <- column_to_rownames(exp,var = 'Gene')
+exp <- column_to_rownames(exp,var = 'Gene Symbol')
 
 #Count 去重
-exp <- exp[exp$gene_id != "" & !is.na(exp$gene_id), ]       #去除空基因名
-exp <- rowsum(as_data_frame(exp[,-1]), group = exp$gene_id) #以gene_id分组求和，实现去重
+exp <- exp[exp$gene_name != "" & !is.na(exp$gene_name), ]       #去除空基因名
+exp <- rowsum(as_data_frame(exp[,-1]), group = exp$gene_name) #以gene_id分组求和，实现去重
 
 #质量控制
 colSums(exp)       #基本规模
@@ -482,6 +482,26 @@ pdf(file = 'volcano.pdf',width = 6,height = 6)
 p
 dev.off()
 
+#2.2单基因箱线图####
+single_gene_boxplot <- function(gene_name){
+  box_plot_data <- data.frame(t(unname(exp1[gene_name,])),rt$group)
+  colnames(box_plot_data) <- c("gene","group")
+  outdir <- "boxplot_output/OXPHOS_genes"
+  dir.create(outdir, recursive = TRUE, showWarnings = FALSE)
+  
+  outfile <- file.path(outdir, paste0(gene_name, ".pdf"))
+  
+  pdf(file=outfile,width=6,height=6)
+  p <-  ggplot(data = box_plot_data,
+               aes(x=group,y=gene,fill=group))+
+    geom_boxplot()+
+    geom_point(position = "jitter")
+  print(p)
+  dev.off()
+}
+select_single_genes <- rownames(OXPHOS_genes_DEG)
+lapply(select_single_genes,single_gene_boxplot)
+
 #3.count数据vst转化####
 vst <- vst(dds,blind = F)
 exp1 <- assay(vst)
@@ -510,7 +530,7 @@ str(exp)
 #确认行名列名一致#确认行名列名一致exp33
 identical(rownames(rt),colnames(exp))
 #1.火山图####
-group_list <- factor(rt$group,levels = c("Normal","Tumor"))
+group_list <- factor(rt$group,levels = c("control","myopia"))
 group_list
 design <- model.matrix(~group_list)
 #比较矩阵命名
@@ -524,9 +544,9 @@ DEG = na.omit(deg) #differently expressed genes
 write.table(DEG, file='DEG1.txt',sep = "\t",row.names = T,col.names = NA,quote = F)
 #进行注释 fold change
 #通常logFC设置1,adj.P.Val < 0.05
-logFC_cutoff <- 1
-type1 = (DEG$adj.P.Val < 0.05)&(DEG$logFC < -logFC_cutoff)
-type2 = (DEG$adj.P.Val < 0.05)&(DEG$logFC > logFC_cutoff)
+logFC_cutoff <- 0.1
+type1 = (DEG$P.Value < 0.1)&(DEG$logFC < -logFC_cutoff)
+type2 = (DEG$P.Value < 0.1)&(DEG$logFC > logFC_cutoff)
 DEG$change = ifelse(type1,"DOWN",ifelse(type2,"UP","NOT"))
 write.table(DEG, file='DEG2.txt',sep = "\t",row.names = T,col.names = NA,quote = F)
 table(DEG$change)
@@ -541,7 +561,7 @@ DOWNDEG <- subset(DEG,change=='DOWN')
 DOWNDEG_5 <- top_n(x = DOWNDEG,n = -5,wt = P.Value)
 p <- ggplot(data = DEG,
             aes(x = logFC,
-                y = -log10(adj.P.Val))) +
+                y = -log10(P.Value))) +
   geom_point(alpha = 0.5, size = 4.5,
              aes(color = change)) +
   ylab("-log10(adj.P.Val)") +
@@ -592,11 +612,11 @@ dev.off()
 #特定展示
 library(tidyverse)
 diff =  DEG[DEG$change !="NOT",]
-up <- diff %>% top_n(25,logFC)
-dw <- diff %>% top_n(-25,logFC)
+up <- diff %>% top_n(10,logFC)
+dw <- diff %>% top_n(-10,logFC)
 all <-c(rownames(up),rownames(dw))
 exp_diff2 <- exp[all,]
-pdf(file = 'heatmap2.pdf',width=6,height=8)
+pdf(file = 'heatmap_TOP10.pdf',width=6,height=8)
 pheatmap(exp_diff2,
          annotation_col=rt,
          color = colorRampPalette((c("blue","white","red")))(100),
@@ -613,6 +633,7 @@ dev.off()
 rm(list = ls())
 library(tidyverse)
 library(clusterProfiler)
+library(org.Mm.eg.db)
 library(org.Hs.eg.db)
 library(enrichplot)
 library(ggplot2)
@@ -623,7 +644,7 @@ table(DEG$change)
 diff <- rownames(DEG)[DEG$change!='NOT']
 
 #将基因ID从Symbol转换为EntrezID
-gene_entrez <- bitr(diff, fromType ="SYMBOL", toType ="ENTREZID", OrgDb = org.Hs.eg.db)
+gene_entrez <- bitr(diff, fromType ="SYMBOL", toType ="ENTREZID", OrgDb = org.Mm.eg.db)
 #可以查看一下转换比
 cat("所有基因ID转换", nrow(gene_entrez),"/", length(diff))
 untrans <- setdiff(diff, gene_entrez$SYMBOL)
@@ -634,7 +655,7 @@ isValid #查看T还是F
 # 使用mapIds函数转换
 library(AnnotationDbi)
 entrez_ids <- mapIds(
-  x = org.Hs.eg.db,
+  x = org.Mm.eg.db,
   keys = untrans,       # 输入的基因别名列表
   keytype = "ALIAS",    # 明确指定输入类型为别名
   column = "ENTREZID",  # 转换为ENTREZID作为中间步骤
@@ -649,7 +670,7 @@ gene_entrez2 <- rbind(gene_entrez,entrez_df)
 
 #1.GO富集####
 GO <- enrichGO(gene = gene_entrez2$ENTREZID,
-               OrgDb = org.Hs.eg.db,
+               OrgDb = org.Mm.eg.db,
                keyType ="ENTREZID",
                ont ="ALL", # "BP", "MF", "CC"或"ALL"
                pAdjustMethod ="BH",
@@ -658,6 +679,8 @@ GO <- enrichGO(gene = gene_entrez2$ENTREZID,
 
 GO_res <- GO@result
 write.table(GO_res,file="GO_res.txt",sep="\t",quote=F,row.names = F)
+#GO_res <- read.table("GO_res.txt",sep = "\t",check.names = F, stringsAsFactors = F,header = T)
+#GO_select <- as.array(GO_res$Description[grepl("mitochondrial",GO_res$Description)& GO_res$ONTOLOGY=="CC"])
 #简单作图
 barplot(GO, showCategory = 20)
 dotplot(GO, showCategory = 20)
@@ -668,10 +691,12 @@ barplot(GO, showCategory = 5,,split="ONTOLOGY") +
 barplot(GO, showCategory = GO_select,,split="ONTOLOGY") +
   facet_grid(ONTOLOGY~., scale='free')
 #2.KEGG分析####
+
+#防止超时 options(timeout = 600)
 KEGG <- enrichKEGG(gene = gene_entrez2$ENTREZID,
-                   organism     = 'hsa',
-                   pvalueCutoff = 0.05, 
-                   qvalueCutoff =0.05) 
+                   organism     = 'mmu',
+                   pvalueCutoff = 1, 
+                   qvalueCutoff =1) 
 KEGG_res <- KEGG@result
 write.table(KEGG_res,file="KEGG_res.txt",sep="\t",quote=F,row.names = F)
 #简单作图
@@ -687,7 +712,7 @@ DEG <- read.table("DEG2.txt",sep = "\t",check.names = F, stringsAsFactors = F,he
 DEG <- mutate(DEG,Gene_symbol=rownames(DEG))
 
 KEGG_res <- read.table("KEGG_res.txt", sep = "\t",header = TRUE, stringsAsFactors = FALSE)
-KEGG <- setReadable(KEGG, OrgDb = org.Hs.eg.db, keyType = "ENTREZID") 
+KEGG <- setReadable(KEGG, OrgDb = org.Mm.eg.db, keyType = "ENTREZID") 
 KEGG_res <- KEGG@result
 kegg_select <- KEGG_res[KEGG_res$Description %in% c("AMPK signaling pathway","Oxidative phosphorylation"),]
 kegg_list <- strsplit(kegg_select$geneID, "/")
@@ -714,10 +739,10 @@ a12 <- a12[, -1, drop = FALSE]
 ## 取交集并按 logFC 排序
 id <- intersect(rownames(a12), DEG$Gene_symbol)
 DEG2 <- DEG[id, , drop = FALSE]
-DEG2 <- DEG2[order(DEG2$log2FoldChange, decreasing = TRUE), , drop = FALSE]
+DEG2 <- DEG2[order(DEG2$logFC, decreasing = TRUE), , drop = FALSE]
 
 a12 <- a12[rownames(DEG2), , drop = FALSE]
-a12$logFC <- DEG2$log2FoldChange
+a12$logFC <- DEG2$logFC
 
 ##绘制弦图
 GOChord(
@@ -757,7 +782,7 @@ rm(list = ls())
 library(tidyverse)
 library(limma)
 setwd('E:/R_do/阿伦生信教学代码/GEO/差异分析/')#设置工作路径
-load('GSE299988.rda')
+load('GSE200051.rda')
 rt <- rt3
 exp <- exp3
 str(exp) 
@@ -766,7 +791,7 @@ str(exp)
 #确认行名列名一致#确认行名列名一致
 identical(rownames(rt),colnames(exp))
 #组间差异分析
-group_list <- factor(rt$group,levels = c("Normal","Tumor"))
+group_list <- factor(rt$group,levels = c("control","myopia"))
 group_list
 design <- model.matrix(~group_list)
 #比较矩阵命名
@@ -788,16 +813,16 @@ library(org.Hs.eg.db)
 #                  toType="ENTREZID", OrgDb='org.Hs.eg.db')
 # DEG <- inner_join(DEG,genelist,by=c("Gene"="SYMBOL"))
 geneList <- DEG[,2]
-names(geneList) <- as.character(DEG[,'Gene_symbol'])
+names(geneList) <- as.character(DEG[,'Gene'])
 #排序
 geneList <- sort(geneList, decreasing = TRUE)
 geneList
 
 #读取gmt文件
-gmt <- read.gmt('h.all.v2026.1.Hs.symbols.gmt')
+gmt <- read.gmt('mh.all.v2026.1.Mm.symbols.gmt')
 GSEA <- GSEA(geneList,
              TERM2GENE = gmt, 
-             pvalueCutoff = 0.05,
+             pvalueCutoff = 1,
              pAdjustMethod = "BH",
              minGSSize = 20,
              maxGSSize = 500) 
@@ -805,8 +830,8 @@ GSEA <- GSEA(geneList,
 res <- GSEA@result
 write.csv(res,file = 'H_GSEA.csv')
 
-p <- gseaplot2(GSEA,geneSetID = 'HALLMARK_ALLOGRAFT_REJECTION',
-               title = 'HALLMARK_ALLOGRAFT_REJECTION',color = 'red')
+p <- gseaplot2(GSEA,geneSetID = 'HALLMARK_OXIDATIVE_PHOSPHORYLATION',
+               title = 'HALLMARK_OXIDATIVE_PHOSPHORYLATION',color = 'red')
 p
 p1 <- gseaplot2(GSEA,geneSetID = 1:3,pvalue_table = T, subplots = 1:2)
 p1  
@@ -1470,7 +1495,7 @@ library(tidyverse)
 library(clusterProfiler)
 setwd('E:/R_do/阿伦生信教学代码/GEO/GSVA/')#设置工作路径
 load('GSE84844.rda')
-gmt <- read.gmt('h.all.v2025.1.Hs.symbols.gmt') #读取gmt数据
+gmt <- read.gmt('h.all.v2026.1.Hs.symbols.gmt') #读取gmt数据
 geneset <- split(gmt$gene,gmt$term) #切割为list
 #1.GSVA分析####
 # BiocManager::install("GSVA")
@@ -1499,7 +1524,7 @@ pheatmap(gsva,
 
 #2.2 GSVA的通路差异分析####
 library(limma)
-group_list <- factor(rt$group,levels = c("control","pSS"))#分组
+group_list <- factor(rt$group,levels = c("control","myopia"))#分组
 group_list
 design <- model.matrix(~group_list)
 #比较矩阵命名
@@ -2382,7 +2407,7 @@ rm(list=ls())
 setwd('E:/R_do/阿伦生信教学代码/GEO/GEO数据下载与整理')
 library(tidyverse)
 
-load('GSE299988.rda')
+load('GSE200051.rda')
 str(exp3) 
 exp <- exp3
 rt <- rt3
@@ -2390,7 +2415,7 @@ rt <- rt3
 #相关性分析
 
 #保留疾病组
-rt <- filter(rt,group=='Tumor')
+rt <- filter(rt,group=='myopia')
 exp <- exp[,rownames(rt)]
 exp <- t(exp)
 
@@ -2398,14 +2423,14 @@ library(psych)
 library(corrplot)
 library(ggpubr)
 #1.常规相关性####
-PTPRC <- exp[,'PTPRC',drop=F] 
-A1BG <- exp[,'A1BG',drop=F] 
-cor <- corr.test(PTPRC,A1BG,method = 'spearman') 
+PRKAA1 <- exp[,'Prkaa1',drop=F] 
+TFAM<- exp[,'TFAM',drop=F] 
+cor <- corr.test(PRKAA1,TFAM,method = 'spearman') 
 r <- cor$r #相关性值
 p <- cor$p #p值
 
-dat <- cbind(PTPRC,A1BG)
-p <- ggplot(data = dat, aes(x = PTPRC, y = A1BG)) +
+dat <- cbind(PRKAA1,TFAM)
+p <- ggplot(data = dat, aes(x = PRKAA1, y = TFAM)) +
   geom_point(alpha = 0.7, color = "black", fill = "#999999", size = 2) +
   geom_smooth(method = "lm",      # 线性拟合（若想非线性用method="loess"）
               se = TRUE,          # 显示95%置信区间
@@ -2428,7 +2453,7 @@ p
 
 #2.批量相关性####
 #选择你感兴趣的基因 举例：PTPRC
-Gene <- 'PTPRC'
+Gene <- 'PRKAA1'
 gene <- exp[,Gene,drop=F]
 EXP <- exp[,colnames(exp) != Gene,drop=F]
 #循环
