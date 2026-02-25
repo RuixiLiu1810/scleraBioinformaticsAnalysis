@@ -481,6 +481,26 @@ p
 pdf(file = 'volcano.pdf',width = 6,height = 6)
 p
 dev.off()
+#2.2单基因箱线图####
+single_gene_boxplot <- function(gene_name){
+  box_plot_data <- data.frame(t(unname(exp1[gene_name,])),rt$group)
+  colnames(box_plot_data) <- c("gene","group")
+  outdir <- "boxplot_output/OXPHOS_genes"
+  dir.create(outdir, recursive = TRUE, showWarnings = FALSE)
+  
+  outfile <- file.path(outdir, paste0(gene_name, ".pdf"))
+  
+  pdf(file=outfile,width=6,height=6)
+  p <-  ggplot(data = box_plot_data,
+           aes(x=group,y=gene,fill=group))+
+      geom_boxplot()+
+      geom_point(position = "jitter")
+  print(p)
+  dev.off()
+}
+select_single_genes <- rownames(OXPHOS_genes_DEG)
+lapply(select_single_genes,single_gene_boxplot)
+
 
 #2.2单基因箱线图####
 single_gene_boxplot <- function(gene_name){
@@ -840,7 +860,7 @@ p1
 #2.单基因GSEA####
 rm(list = ls())
 library(tidyverse)
-setwd('E:/scleraBioinformaticsAnalysis/Datasets/3_Myopia_Tissues/High/GSE280609')#设置工作路径
+setwd('/Users/liuruixi/Documents/scleraBioinformaticsAnalysis/Datasets/3_Myopia_Tissues/High/GSE280609')#设置工作路径
 load('GSE280609.rda')
 rt <- rt3
 exp <- exp3
